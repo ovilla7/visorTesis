@@ -1,8 +1,9 @@
-# lectorxml
+# Visor de tesis en formato XML
 
 Proyecto para la creación de un lector de archivos XML con formato propio.
 
-## Instalación, configuración y uso
+
+## Instalación, configuración
 
 No requiere alguna configuración especial, solo debe clonarse el proyecto, porsteriormente debe crearse en raíz una carpeta llamada 'asset' (ver abajo más detalles sobre esta carpeta).
 
