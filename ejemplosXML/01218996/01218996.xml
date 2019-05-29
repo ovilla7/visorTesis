@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='http://xml.ibsa.mx/xml-style/z3998-base.css' title='Z39.98-AI generic' alternate='no'?>
+<document xmlns="http://www.daisy.org/ns/z3998/authoring/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:rend="http://www.daisy.org/ns/z3998/authoring/features/rend/" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="es" xml:id="doc">
+    <head>
+        <meta rel="z3998:profile" resource="http://www.daisy.org/z3998/2012/auth/profiles/genericdocument/0.5/">
+            <meta property="z3998:name" content="genericdocument" />
+            <meta property="z3998:version" content="0.5" />
+            <meta rel="z3998:feature" resource="http://www.daisy.org/z3998/2012/auth/features/rend/0.5/">
+                <meta property="z3998:name" content="rend" />
+                <meta property="z3998:version" content="0.5" />
+            </meta>
+        </meta>
+        <meta rel="z3998:rdfa-context" resource="http://www.daisy.org/z3998/2012/vocab/context/default/" />
+        <meta property="dc:type" content="info:eu-repo/semantics/masterThesis" />
+        <meta property="dc:format" content="text/xml" />
+        <meta property="dc:format" content="application/pdf" />
+        <meta property="dc:rights" content="info:eu-repo/semantics/openAccess" />
+
+        <meta property='fig-count' content='6'/>
+        <meta property='table-count' content='4'/>
+        <meta property='ref-count' content='30'/>
+    </head>
+    <body>
+        <section role="frontmatter">
+            <section role="cover">
+                <p><emph>UNIVERSIDAD AUTÓNOMA DE GUERRERO. </emph></p>
+                <p>FAC. DE CIENCIAS QUÍMICO BIOLÓGICAS.</p>
+                <p><emph><html:i>Maestría en Ciencias Biomédicas </html:i></emph></p>
+                <p><emph>Expresión de un gen homólogo de IL­10 humana y de <html:i>mtrII </html:i>ORF79 de Citomegalovirus e infección con VPH en lesión escamosa intraepitelial cervical de grado bajo </emph></p>
+                <p>Comité tutorial</p>
+                <p><object xml:id="fg1" src="01218996-fg1.jpg" /></p>
+            </section>
+            <toc>
+                <h><emph>CONTENIDO </emph></h>
+                <entry>Página</entry>
+                <entry>Abreviaturas i</entry>
+                <entry>Índice de tablas ii</entry>
+                <entry>Índice de figuras iii</entry>
+                <entry>Resumen iv</entry>
+                <entry>Abstract v</entry>
+                <entry>I. INTRODUCCION 1</entry>
+                <entry>II. MATERIALES Y METODOS 5</entry>
+                <entry>III. RESULTADOS 8</entry>
+                <entry>IV. DISCUSION 12</entry>
+                <entry>V. CONCLUSION 15</entry>
+                <entry>VI. ANEXOS 16</entry>
+                <entry>VII. REFERENCIAS 18</entry>
+            </toc>
+            <section role="glosary">
+                <h>ABREVIATURAS</h>
+                <p><emph>VPH </emph>Virus del papiloma humano.</p>
+                <p><emph>CMV </emph>Citomegalovirus</p>
+                <p><emph>LEIGB </emph>Lesión escamosa intraepitelial de grado bajo</p>
+                <p><emph><html:i>UL111A </html:i></emph>Gen de Citomegalovirus ubicado en la región mtrII y que codifica para un hómologo de IL­10 humana</p>
+                <p><emph><html:i>mtrII </html:i>ORF79 </emph>Marco de lectura abierto que codifica un péptido de 79 aminoácidos ubicado en la región morfológica de transformación de CMV</p>
+                <p><emph>IL­10 </emph>Interleucina 10 humana</p>
+                <p><emph>cmvIL­10 </emph></p>
+                <p>Homólogo viral de la Interleucina 10 humana producido por CMV durante la fase productiva de la infección y que consta de 175 aminoácidos</p>
+                <p><emph>LA­cmvIL­10 </emph>Trascrito que es expresado durante la infección latente de CMV y que expresa un péptido de 139 aminoácidos</p>
+            </section>
+            <toc>
+                <h>ÍNDICE DE TABLAS</h>
+                <entry><emph>Tabla 1. </emph>Iniciadores y condiciones de amplificación usados para la detección del DNA de CMV, VPH, b ­globina y b ­actina.</entry>
+                <entry>Página <emph>6</emph></entry>
+                <entry><emph>Tabla 2. </emph>Genotipos virales de VPH a partir de productos de PCR utilizando el <emph> 10 </emph></entry>
+                <entry>par de iniciadores MY y GP.</entry>
+                <entry><emph>Tabla 3. </emph>Genotipos de VPH más frecuentes en la coinfección con CMV <emph> 10 </emph></entry>
+            </toc>
+            <toc>
+                <h>ÍNDICE DE FIGURAS</h>
+                <entry><emph>Figura 1. </emph></entry>
+                <entry>Mapa del genoma de CMV. El genoma de CMV está organizado en dos regiones de secuencias únicas; única larga (UL) y única corta (US), flanqueadas por dos grupos de repeticiones invertidas (TRL/IRL) y (IRS/TRS).</entry>
+                <entry>Página <emph>2</emph></entry>
+                <entry><emph>Figura 2. </emph></entry>
+                <entry>El ORF 79 es un ORF de 79 aa cuya interrupción inhibe su capacidad transformante. cmvIL­10 es codificada por tres exones. Se muestra la <emph> 3 </emph></entry>
+                <entry>posición de dos intrones en la región <html:i>mtrII</html:i>.</entry>
+                <entry><emph>Figura 3. </emph></entry>
+                <entry>(A) Prevalencia de la infección con CMV y VPH en mujeres con lesión escamosa intraepitelial de grado bajo. (B) Resultados de la amplificación <emph> 8 </emph></entry>
+                <entry>por PCR para CMV en biopsias con LEIGB.</entry>
+                <entry><emph>Figura 4. </emph>Métodos de genotipificación del virus del papiloma humano <emph> 9 </emph></entry>
+                <entry><emph>Figura 5. </emph>RT­PCR del segmento ORF 79 de <html:i>mtrII </html:i>de CMV <emph> 9 </emph></entry>
+                <entry><emph>Figura 6. </emph>Fragmentos del genoma de CMV que corresponden a la región <html:i>mtrII </html:i><emph> 10 </emph></entry>
+                <entry>ORF79 que fueron identificados con el programa BLASTN 2.2.10</entry>
+            </toc>
+            <section role="abstract" xml:lang="es" property="dc:description">
+                <h>RESUMEN</h>
+                <p>En el genoma de CMV existe una secuencia denominada <html:i>mtr</html:i>II, esta secuencia además de codificar un péptido con actividad transformante, también codifica para un homologo de la interleucina 10 humana. Se ha propuesto que la expresión de esta región podría actuar como un cofactor en el desarrollo hacia cáncer cervical ya sea por su actividad transformante o por inmunosupresión local.</p>
+                <p>El objetivo de este estudio fue determinar la infección con CMV en pacientes que refieren lesión escamosa intraepitelial de grado bajo (LEIGB), así como también, determinar la expresión del gen homólogo a IL­10 humana y la expresión de la región con actividad transformante denominada <html:i>mtrII </html:i>ORF79 de CMV. Además, se hizo la detección de la infección con VPH en esta misma población.</p>
+                <p>En este estudio se analizaron 95 biopsias de mujeres con diagnóstico de LEIGB provenientes del Instituto Dr. Arturo Beltrán Ortega, de la ciudad de Acapulco, Guerrero, México; y que fueron captadas durante el periodo de diciembre de 2002 a enero de 2004. La detección CMV se hizo mediante PCR con un par de oligonucleotidos que alinean en la región <html:i>mtr </html:i>II del genoma de CMV. La expresión del gen homólogo a IL­10 y la expresión de la región transformante <html:i>mtrII </html:i>ORF79 se hizo utilizando RT­PCR. Para comprobar que algún transcripto correspondiera a las regiones de interés, se secuenciaron los productos de la RT­PCR. La detección de la infección del virus del Papiloma humano se realizó con dos pares de oligonuceótidos (MY09/MY11 GP5+/GP6+). La genotipificación del VPH se realizó mediante RFLP’s y secuenciación directa. La infección con CMV fue detectada en 55 biopsias (57.8%), de éstas, ninguna tuvo la expresión del homólogo de IL­10 humana, sin embargo, 4 muestras positivas a CMV tuvieron expresión de la región con actividad transformante (<html:i>mtrII </html:i>ORF79).</p>
+                <p>A partir de las 95 biopsias analizadas, 80 fueron positivas a VPH (82.2%), encontrándose que la</p>
+                <p>coinfección con VPH/CMV ocurrió en 47 biopsias (49.5%). Los genotipos 16, 6b y 18 fueron los más frecuentes en esta población.</p>
+                <p>La alta frecuencia de la coinfección con CMV indica que posiblemente exista una interacción sinérgica entre CMV y VPH. La expresión en el genoma de CMV de la región con actividad transformante <html:i>mtrII </html:i>ORF79 en LEIGB con VPH podría contribuir como un mecanismo adicional de transformación celular y progresión a cáncer cervical.</p>
+            </section>
+            <section role="abstract" xml:lang="es" property="dc:description">
+                <h>ABSTRACT</h>
+                <p>CMV genome has a sequence named <html:i>mtrII </html:i>and is involved in transforming activity. Recently, in this region a novel gene comprising segments of noncontiguous open reading frames was identified, it was found to have limited predicted homology to an endogenous human cellular interleukin­10 (IL­10). It is postulated that the expression of this region could be a cofactor in the development of cervical cancer by local immunosuppressive or transforming activity.</p>
+                <p>The aim of this study was to determine the frequency of CMV and HPV infection, and to find out the expression to homologous of human cellular interleukin­10 and the expression of <html:i>mtrII </html:i>region with transforming activity named <html:i>mtrII</html:i>ORF79 in patients with low grade cervical squamous intraepithelial lesion (LSIL).</p>
+                <p>The present work included 95 women with LSIL, who belong to oncology hospital at the State of Guerrero and were enrolled between 2003­2004. The screening of CMV in cervical biopsies was done by PCR, using primers that amplify a 168 pb of <html:i>mtrII </html:i>region. To determine IL­10 homologous and of the <html:i>mtrII</html:i>ORF79 expression we used RT­PCR technique. In order to verify that the expression corresponded to the region of the DNA studied, we did direct sequencing from RT­PCR products.</p>
+                <p>The screening of HPV was performed using the primers MY09/MY11 and GP5+/GP6+. RFLP’s and direct sequencing were used for HPV genotyping.</p>
+                <p>Ninety and five samples of LSIL, 55 (57.8%) CMV­positives were identified, and these samples were IL­10 homologous negative­expression. In the other hand, 4 samples were <html:i>mtrII</html:i>ORF79 positive­expression.</p>
+                <p>Eighty samples (82.2%) were Human papillomavirus positives, HPV/CMV coinfection occurred in 47 samples (49.5%). HPV­16, 18 and 6b genotypes were the most frequent in these patients.</p>
+                <p>The high frecuency of CMV infection indicates that a synergistic interaction may occur between CMV and HPV. <html:i>mtrII</html:i>ORF79 expression in LSIL and HPV infection could contribute to cell transformation and progression of SIL to cervical cancer.</p>
+            </section>
+        </section>
+        <section role="bodymatter">
+            <section>
+                <h>INTRODUCCIÓN</h>
+                <quote>
+                    <p>A pesar de que se sabe mucho acerca de los factores involucrados en el desarrollo del cáncer cervical, obviamente falta mucho por aprender a este respecto. Datos derivados de investigaciones experimentales como epidemiológicas sugieren que algunos tipos particulares de VPH, especialmente los tipos 16 y 18, están involucrados en la etiología del cáncer cervical y sus lesiones precursoras. Los mecanismos de transformación celular son complejos, el inicio de las lesiones premalignas esta influenciado por un número de factores interrelacionados como lo son la expresión de genes virales, la respuesta inmune del hospedador, y quizás la más importante, la presencia de co­carcinógenos. La necesidad de uno o más co­carcinógenos en el cáncer cervical podría explicar los periodos relativamente largos entre la aparición de los cambios premalignos y el desarrollo de la enfermedad.<emph><sup> 1</sup> </emph></p>
+                </quote>
+                <quote>
+                    <p>Varios miembros de la familia de los Herpesvirus han estado bajo escrutinio para determinar su papel como promotores del carcinoma cervical. Recientemente han surgido evidencias que apoyan la conexión entre CMV y la transformación celular (fibroblastos NIH 3T3 y Rat­2), además se han identificado las regiones en el genoma viral que inducen transformación. Con lo anterior se cree que el CMV podría actuar como un co­carcinógeno</p>
+                </quote>
+                <quote>
+                    <p>El Citomegalovirus es un β­herpesvirus ubicuo responsable de un amplio espectro de enfermedades clínicas y subclínicas. Al igual que otros virus, CMV puede infectar el cérvix y puede producir infecciones persistentes del tracto genitourinario. En los últimos años se ha generado evidencia que relaciona la infección por CMV y asociación con el cáncer cervical y sus lesiones precursoras. El Citomegalovirus se ha aislado de biopsias provenientes de cáncer cervical, además se ha reportado la presencia de DNA de CMV y VPH en muestras con cáncer cervical, y se cree que, posiblemente, existe un sinergismo entre estos dos virus que llevan al desarrollo del cáncer cervical.<emph><sup> 1</sup> </emph></p>
+                </quote>
+                <quote>
+                    <p>El potencial oncogénico del CMV se ha demostrado utilizando virus infecciosos y virus inactivados con luz ultravioleta, los cuales son capaces de transformar una variedad de células de roedores y de humanos <html:i>in vitro. </html:i>Razzaque y cols. localizaron en el genoma de CMV un fragmento que denominaron <html:i>mtr</html:i>II (figura 1) el cual está asociado a la transformación celular. Revelaron que una región del fragmento consta de tres marcos de lectura (ORF’s, por sus siglas en inglés) y que codifican para tres péptidos: 79 aminoácidos, 34 aminoácidos y 83 aminoácidos.<emph><sup> 2</sup> </emph>Thompson y cols. demostraron que la actividad transformante estaba</p>
+                </quote>
+                <quote>
+                    <p>dada por el ORF 79 a.a.<emph><sup> 3</sup> </emph>De manera similar a las oncoproteínas de algunos virus de genoma pequeño, la oncoproteína mtrIIORF79 se une al extremo N­terminal de p53 <html:i>in vitro </html:i>e inhibe la trascripción activada por p53 en células transformadas. Por estas observaciones <html:i>mtr</html:i>IIORF79 se caracteriza a como un oncogen de CMV.<emph><sup> 4­6</sup> </emph></p>
+                </quote>
+                <p><emph><object xml:id="f1" src="01218996-f1.jpg" /> </emph></p>
+                <quote>
+                    <p>Figura 1. Mapa del genoma de CMV. El genoma de CMV está organizado en dos regiones de secuencias únicas, única larga (UL) y única corta (US), flanqueadas por dos grupos de repeticiones invertidas (TRL/IRL) y (IRS/TRS). mtrI, mtrII, y mtrIII representan tres regiones de transformación morfológicas identificadas en el genoma de CMV. <html:i>Xba</html:i>I, <html:i>Ban</html:i>II, y <html:i>Xho</html:i>I son sitios para la digestión con endonucleasas de restricción. (A) Localización de <html:i>mtrII </html:i>también designado como <html:i>UL111A</html:i>. (B) El fragmento <html:i>Xba</html:i>I­<html:i>Bam</html:i>HI EM muetra el fragmento <html:i>Ban</html:i>II­<html:i>Xho</html:i>I (mtrII 980) con sus proteínas codifcantes.<emph><sup> 6</sup> </emph></p>
+                </quote>
+                <quote>
+                    <p>En un estudio hecho por Kotenko SV y cols. identificaron en la región <html:i>mtr</html:i>II de CMV, un gen (<html:i>UL111A</html:i>) que se encuentra de manera colinear con la porción <html:i>mtrII</html:i>ORF79 y que codifica para una proteína que tiene homología con IL­10 humana y que ha sido denominada cmvIL­ 10 (figura 2). También se ha demostrado que a pesar de la poca homología (27%, anexo 1) que tiene con la IL­10 humana, cmvIL­10 es capaz de unirse al receptor de IL­10 y competir con IL­10 por el sitio de unión al receptor e inducir una señal de transducción, similar a la que realiza la IL­10 celular. Por otro lado, se ha demostrado que cmvIL­10 inhibe la síntesis de</p>
+                </quote>
+                <quote>
+                    <p>citocinas pro­inflamatorias y disminuye la expresión de MHCI y MHCII, así como también, puede suprimir la maduración y cambiar la función de las células dendríticas.<emph><sup> 7­11</sup> </emph></p>
+                </quote>
+                <p><emph><object xml:id="f2" src="01218996-f2.jpg" /> </emph></p>
+                <quote>
+                    <p>Figura 2. El ORF 79 es un ORF de 79 aa cuya interrupción inhibe su capacidad transformante. cmvIL­10 es codificada por tres exones. Se muestra la posición de dos intrones en la región mtrII. SP representa el péptido señal de cmvIL­10. El ORF 79 aa es ligeramente más largo que el segmento codificado por el primer exon de cmvIL­10.</p>
+                </quote>
+                <quote>
+                    <p>La importancia de que un virus como CMV produzca un homólogo a la IL­10 celular, es que cumple algunas funciones importantes de la IL­10 humana y posiblemente algunas otras funciones que no han sido demostradas. La IL­10 es una citocina multifuncional que es importante en la regulación de la respuesta inmune. Se ha demostrado que inhibe la proliferación y la capacidad efectora de las células Th<sub>1</sub>, las cuales promueven la inmunidad mediada por células y son requeridas para una respuesta efectiva hacia patógenos intracelulares y hacia células tumorales.<emph><sup> 12,13</sup> </emph>El mRNA y la proteína de IL­10 se han encontrado en exceso en muchos cánceres, especialmente en cáncer cervical y sus lesiones precursores.<emph><sup> 14</sup> </emph></p>
+                </quote>
+                <quote>
+                    <p>Se ha postulado que una respuesta inmune deteriorada puede contribuir a la progresión de las lesiones pre­neoplásicas asociadas a la infección con VPH. Esto se ha observado en la región del cervix más sensible al desarrollo de una lesión, la zona de transformación, en la cual se han encontrado altos niveles de la citocina inmusupresora IL­10 celular. Además, se sabe que la IL­10 tiene efecto positivo sobre la transcripción de VPH­16.<emph><sup> 15</sup> </emph></p>
+                </quote>
+                <quote>
+                    <p>Por lo anterior, se piensa que CMV, en la zona cervical, podría expresar mRNA que tuviera homología con el mRNA de la IL­10 celular y codificar una proteína con actividad inmunosupresora ó expresar mRNA que codificara una proteína con actividad transformante (mtrIIORF79), y por lo tanto actuar como un cofactor del VPH para el desarrollo de cáncer cervical y sus lesiones precursoras.</p>
+                </quote>
+            </section>
+            <section>
+                <h>MATERIALES Y METODOS</h>
+                <quote>
+                    <p><emph>Biopsias </emph>. Se analizaron 95 biopsias con lesión intraepitelial escamosa de grado bajo (LEIGB). Éstas fueron obtenidas durante el periodo de Diciembre de 2002 a Enero de 2004 del Instituto Arturo Beltrán Ortega, en la ciudad de Acapulco, Guerrero, México. La selección de las biopsias se realizó con base los siguientes criterios: biopsias de mujeres que no habían recibido tratamiento previo (histerectomía, radiaciones o quimioterapia) y que tuvieran diagnóstico de LEIGB confirmado por histología. El tejido cervical se transportó en hielo seco y después se trituró con 1 ml de Trizol<sup> ©</sup> por cada 50 mg de biopsia, con el homogenizador de tejidos (Tissue Tearor modelo 985370) a 8600 rpm.</p>
+                </quote>
+                <quote>
+                    <p><emph>Extracción de ácidos nucleicos. </emph>La extracción de los ácidos nucleicos se llevó a cabo utilizando el reactivo Trizol© de acuerdo a las instrucciones del fabricante.</p>
+                </quote>
+                <quote>
+                    <p><emph>PCR y RT­PCR. </emph>Para la amplificación del DNA de CMV se empleó un juego de oligonucleótidos (Tabla 1) que alinean en la región de transformación II, específicamente se sitúan en el ORF 79, los cuales generan un amplicón de 168 pb.<emph><sup> 16</sup> </emph>La reacción consistió de una mezcla final de 50 m l, que contenía 1µg DNA, Buffer 1X de PCR, 2.5 mM MgCl2, 0.2 mM dNTPs, 0.5 m M de cada primer, 1.25 U AmpliTaq Gold DNA Polymerase (Applied Biosystems). Como control positivo se uso el plásmido pEF­cmv3, que contiene la secuencia <html:i>mtr</html:i>II, el cual gentilmente fue donado el Dr. Sergei Kotenko (<html:i>Department of Molecular Genetics and Microbiology, University of Medicine and Dentistry of New Jersey</html:i>) y como control negativo se empleó agua. Cada muestra fue amplificada en un termociclador automatizado (GeneAmp PCR System 2400; Applied Biosystems), el producto final fue analizado en un gel de agarosa al 2%. Para detectar la expresión de cmvIL­10 o de <html:i>mtr</html:i>IIORF79 se realizó síntesis de cDNA a partir del RNA total, extraído de las muestras con LEIGB. En un volumen final de 25 μl, se realizó una mezcla que consistió de 2.5 μg de RNA total tratado con DNasa, un volumen variable de agua tratada con dietil pirocarbonato (DEPC), 0.5 μg oligo(dT) (Invotrogen) o primer antisentido ORF79 [5’­CCCGACACGCGGAAAAGAAA­3’], y primer antisentido cmvIL­ 10 [5’­AGTAACTGGGTGAACGACAC­3’], Buffer 5X RX (Firts strand Buffer), 0.5 mM dNTP’s, Inhibidor de RNasas (rRNasin Promega), 10 mM ditiotreitol (DTT) y 200 U/l m transcriptasa reversa (SuperScript II RNase H<sup> ­</sup> ), como control negativo se utilizó mezcla para hacer cDNA sin adición de transcriptasa reversa. Además de los iniciadores gene­específicos para hacer</p>
+                </quote>
+                <quote>
+                    <p>cDNA mencionados anteriormente, se utilizó el iniciador antisentido de β­actina como control de RT y para evaluar la integridad del RNA. El cDNA se utilizó para realizar la PCR de <html:i>mtr</html:i>II ORF 79 y cmvIL­10. Para confirmar la expresión los productos de RT­PCR se secuenciaron también. Para la amplificación del DNA de VPH se utilizaron los iniciadores MY11/ MY09<emph><sup> 17,18</sup> </emph>y Gp5+/Gp6+<emph><sup> 19</sup> </emph>que amplifican una región de aproximadamente 450 pb y 150 pb del gen L1 respectivamente. Como control positivo se utilizo 1 ng y 1 pg de DNA plasmidico que contenía el genoma del VPH­6 y como control negativo se utilizó agua. El análisis del los productos de PCR se hizo en geles de agarosa al 2.5% Para evaluar la integridad del DNA se realizó una PCR con iniciadores que flanquean el gen β­globina, como lo han descrito algunos autores.<emph><sup> 20</sup> </emph></p>
+                </quote>
+                <quote>
+                    <p><emph>Tabla 1. Iniciadores y perfiles de termociclador usados para la detección del DNA de HCMV, VPH, </emph>b <emph>­ globina y </emph>b <emph>­actina </emph></p>
+                </quote>
+                <p><emph><object xml:id="f3" src="01218996-f3.jpg" /> </emph></p>
+                <p><emph>Genotipificación: </emph>Para la genotipificación del VPH se usaron dos metodologías. (1) Los amplicones generados con el par MY09 y MY11 se sometieron a restricción utilizando 7 enzimas: <html:i>Bam</html:i>HI, <html:i>Dde</html:i>I, <html:i>Hae</html:i>III, <html:i>Hinf</html:i>I, <html:i>Pst</html:i>I, <html:i>Rsa</html:i>I y <html:i>Sau</html:i>3AI. El resultado de la digestión (patrón de restricción) se analizó utilizando tablas de restricción especificas para el virus del papiloma humano. (2) Los amplicones generados con el par GP5+ y GP6+ se sometieron a análisis de secuenciación. Brevemente: después de la purificación de los productos de PCR, usando isopropanol al 75% y repurificados con columnas <emph>(PRINCENTON SEPARATION CENTRI­ SEP COLUMNS)</emph>, éstos fueron secuenciados, usando el kit Big Dye Terminador (Applied Biosystems), en un secuenciador automatizado (ABI PRISM 310 Genetic Analyzer). Todas las secuencias disponibles de los tipos de VPH fueron recuperadas del sitio NCBI ( <address xlink:href="http://www.ncbi.nlm.nih.gov/BLAST/" xlink:type="simple">http://www.ncbi.nlm.nih.gov/BLAST/</address>) y complementadas con las secuencias almacenadas en una base de datos local. Los tipos de VPH fueron identificados cuando las comparaciones de secuencias revelaron un alto registro (80­200) de alineamiento con un tipo conocido. El análisis estadístico consistió en determinar frecuencias simples de la infección con CMV y VPH, así como también la frecuencia de expresión de <html:i>mtr</html:i>IIORF79 y cmvIL­10.</p>
+            </section>
+            <section>
+                <h>RESULTADOS</h>
+                <quote>
+                    <p>Con el fin de determinar la frecuencia de infección con CMV y VPH en pacientes con LEIGB se realizó PCR de la región <html:i>mtr</html:i>IIORF79 (figura. 3B) y PCR de la región L1 respectivamente. La frecuencia de la infección con CMV se presentó en 55 muestras (57.8%, figura 3A) mientras que la infección con el virus del Papiloma humano se detectó en 80 muestras (84.2%).</p>
+                </quote>
+                <p><emph><object xml:id="f4" src="01218996-f4.jpg" /> </emph></p>
+                <quote>
+                    <p>Figura 3. (A) Prevalencia de la infección con CMV y VPH en mujeres con lesión escamosa intraepitelial de grado bajo. (B) Resultados de la amplificación por PCR para CMV en biopsias con LEIGB. La amplificación corresponde a una región de <html:i>mtrII </html:i>denominada ORF79. Las bandas de 168 pb indican la presencia de CMV en las muestras, carril 1: marcador de 123 pb, carril 2 y 4: muestras positivas a HCMV, carril 3 y 5: muestras negativas, carril 6 y 7 control positivo, ­ control negativo respectivamente.</p>
+                </quote>
+                <quote>
+                    <p>Para conocer los genotipos del virus del Papiloma humano se utilizaron dos metodologías: Se usaron RFLP’s para los productos de PCR, originados a partir de los oligonucleotidos MY09/11, utilizando 7 enzimas de restricción que cortan el fragmento de 450 pb en diferentes porciones de acuerdo a las secuencia del genotipo viral (figura 7B). Para el caso de los productos generados por los oligonucleotidos GP5+/6+ se genotipificaron utilizando secuenciación directa (figura 4A).</p>
+                </quote>
+                <quote>
+                    <p>Tabla 3. Genotipos de VPH más frecuentes en la coinfección con CMV</p>
+                </quote>
+                <table xml:id="t1"><tr> <td> HPV+/CMV­ </td> <td> 47 </td> <td> </td> </tr> <tr> <td> HPV+/CMV­ </td> <td> 33 </td> <td> </td> </tr> <tr> <td> HPV­/CMV+ </td> <td> 9 </td> <td> </td> </tr> <tr> <td> HPV­/CMV­ </td> <td> 6 </td> <td> </td> </tr> <tr> <td> Total </td> <td> 95 </td> <td> 100% </td> </tr></table>
+                <p><object xml:id="f5" src="01218996-f5.jpg" /></p>
+                <quote>
+                    <p>Fig 4. Métodos de genotipificación del virus del papiloma humano. (A) Secuenciación directa de los productos de PCR utilizando los iniciadores GP’s. Resultado del BLAST al introducir una secuencia la GenBank se observa un registro de alineamiento de 80­200 que corresponde al VPH­16. (B). Resultado de la digestión del producto de PCR utilizando los iniciadores MY’s. El patrón de restricción da como resultado al genotipo 16 del VPH. Los números indican los pares de bases de cada banda.</p>
+                </quote>
+                <quote>
+                    <p>De las muestras analizadas, el genotipo del virus del papiloma humano más frecuente fue el VPH­16 (46.25%), seguido del genotipo 6b y 18 (12.5% y 11.25% respectivamente). La mayoría de los genotipos virales encontrados se clasificaron como genotipos de alto riesgo (ver tabla 2).</p>
+                </quote>
+                <quote>
+                    <p>Tabla 2. Genotipos virales de VPH a partir de productos de PCR utilizando el par de iniciadores <emph>MY </emph>y <emph>GP</emph></p>
+                </quote>
+                <table xml:id="t2"><tr> <td> Tipo viral </td> <td> No. de positivos </td> <td> Porcentaje </td> </tr> <tr> <td> VPH­16 </td> <td> 37 </td> <td> 46.25 </td> </tr> <tr> <td> VPH­18 </td> <td> 9 </td> <td> 11.25 </td> </tr> <tr> <td> VPH­31 </td> <td> 1 </td> <td> 1.25 </td> </tr> <tr> <td> VPH­35 </td> <td> 2 </td> <td> 2.5 </td> </tr> <tr> <td> VPH­45 </td> <td> 3 </td> <td> 3.75 </td> </tr> <tr> <td> VPH­52 </td> <td> 3 </td> <td> 3.75 </td> </tr> <tr> <td> VPH­58 </td> <td> 4 </td> <td> 5 </td> </tr> <tr> <td> VPH­59 </td> <td> 1 </td> <td> 1.25 </td> </tr> <tr> <td> VPH­6b </td> <td> 10 </td> <td> 12.5 </td> </tr> <tr> <td> VPH­69 </td> <td> 3 </td> <td> 3.75 </td> </tr> <tr> <td> VPH­81 </td> <td> 1 </td> <td> 1.25 </td> </tr> <tr> <td> No caracterizado </td> <td> 6 </td> <td> 7.5 </td> </tr> <tr> <td> Total </td> <td> 80 </td> <td> 100% </td> </tr></table>
+                <quote>
+                    <p>En cuanto a la coinfección entre VPH/CMV se encontró que solamente 47 pacientes mostraron este patrón de infección, observándose que el genotipo de VPH­16 fue el más frecuentemente asociado a la coinfección.</p>
+                </quote>
+                <quote>
+                    <p>Tabla 3. Genotipos de VPH más frecuentes en la coinfección con CMV</p>
+                </quote>
+                <table xml:id="t3"><tr> <td> Tipo viral </td> <td> No. de positivos VPH/CMV </td> <td> Porcentaje </td> </tr> <tr> <td> VPH­16 </td> <td> 22 </td> <td> 23.2 </td> </tr> <tr> <td> VPH­18 </td> <td> 5 </td> <td> 9.5 </td> </tr> <tr> <td> VPH­31 </td> <td> 1 </td> <td> 1.1 </td> </tr> <tr> <td> VPH­35 </td> <td> 1 </td> <td> 2.1 </td> </tr> <tr> <td> VPH­45 </td> <td> 3 </td> <td> 3.1 </td> </tr> <tr> <td> VPH­52 </td> <td> 0 </td> <td> 3.1 </td> </tr> <tr> <td> VPH­58 </td> <td> 3 </td> <td> 4.2 </td> </tr> <tr> <td> VPH­59 </td> <td> 0 </td> <td> 1.1 </td> </tr> <tr> <td> VPH­6b </td> <td> 8 </td> <td> 10.5 </td> </tr> <tr> <td> VPH­69 </td> <td> 2 </td> <td> 3.2 </td> </tr> <tr> <td> VPH­81 </td> <td> 1 </td> <td> 1.1 </td> </tr> <tr> <td> No caracterizado </td> <td> 1 </td> <td> 6.3 </td> </tr> <tr> <td> s/coinfección </td> <td> 48 </td> <td> 31.5 </td> </tr> <tr> <td> Total </td> <td> 95 </td> <td> 100% </td> </tr></table>
+                <quote>
+                    <p>Con el fin de examinar la expresión del mRNA cmvIL­10 o mRNA <html:i>mtrII</html:i>ORF79, se realizó RT­ PCR en todas las muestras positivas a CMV. Se sintetizó cDNA utilizando el iniciador anti­ sentido (5’­AGCGGAATTCAAATCGCAACGC­3’) específico para mRNA cmvIL­10, el iniciador (5’­GTGACCTACCAACGTAGGTT­3’) específico para mRNA mtrIIORF79 y utilizando oligo dT, posteriormente el cDNA se sometió a PCR.</p>
+                </quote>
+                <quote>
+                    <p>En ningún paciente que tuvo la infección con CMV se lograron detectar transcritos que correspondieran al homologo de IL­10, sin embargo, en 4 pacientes que tuvieron la infección con CMV se detectó la expresión de la región <html:i>mtrII</html:i>ORF79 (figura 5 A). De estas 4 muestras, 2 tuvieron la infección con VPH­16, una con VPH­18 y una sin infección con VPH.</p>
+                </quote>
+                <p><emph><object xml:id="f6" src="01218996-f6.jpg" /> </emph></p>
+                <quote>
+                    <p>Fig 5. (A) RT­PCR del segmento ORF 79 de <html:i>mtr</html:i>II. Las flechas más gruesas denotan la expresión del ORF 79 en dos muestras diferentes que contenían la infección con CMVH. La flecha roja señala al control positivo que consistió de un plásmido que contiene todo la región de <html:i>mtr</html:i>II; las flechas azules señalan al marcador de peso molecular conocido. Previo a la síntesis de cDNA, las muestras de RNA total se sometieron a un tratamiento con DNasa para evitar contaminación con DNA. (B) RT­PCR para β­ actina.</p>
+                </quote>
+                <quote>
+                    <p>Para comprobar que los transcritos de CMV correspondía exactamente a la región ORF79 <html:i>mtrII</html:i>, el producto de la RT­PCR se sometió a secuenciación. Una búsqueda en la base de datos del GenBank con el programa BLASTN 2.2.10 reveló que las secuencias expresadas por CMV correspondían a la región <html:i>mtrII </html:i>ORF79 (figura 6).</p>
+                </quote>
+                <table xml:id="t4"><tr> <td> AD169p </td> <td> 159819 </td> <td> <emph>CTTGC AATC T GGTCGCGTAA TCCTCTGGAC GACACTGCGG CTTTGTATTC TTTATC GTCG </emph> </td> <td> 159760 </td> </tr> <tr> <td> pEFcmvp </td> <td> 159820 </td> <td> <emph>AT CTTGC AATC T GGTCGCGTAA TCCTCTGGAC GACACTGCGG CTTTGTATTC TTTATCGTCG </emph> </td> <td> 159760 </td> </tr> <tr> <td> CA351p </td> <td> 159819 </td> <td> <emph>CTTGC AATC T GGTCGCGTAA TCCTCTGGAC GACACC GCGG CTTTGTATTC TTTATC GTCG </emph> </td> <td> 159760 </td> </tr> <tr> <td> CA350p </td> <td> 159819 </td> <td> <emph>CTTGC AATC T GGTCGCGTAA TCCTCTGGAC GACACTGCGG CTTTGTATTC TTTATC GTCG </emph> </td> <td> 159760 </td> </tr> <tr> <td> CA391m </td> <td> 160679 </td> <td> <emph>CC GG CGA CGA CGACGACGAT AAAGAATAC A AA GCCGC AGT GTCGTCCG GA GGATTAC GCG </emph> </td> <td> 160738 </td> </tr> <tr> <td> CA393m </td> <td> 160680 </td> <td> <emph>A GC CGG CGA CGACGACGAT AAAGAATAC A A ­ GCCGCAGT GTCGTCCA GA GGATTACGC G </emph> </td> <td> 160738 </td> </tr> <tr> <td> AD169p </td> <td> 159759 </td> <td> <emph>TCGTCGCCGG CTTCGCCTCC TCGGAAGCGC CTAGAAAAAA GACGATCAGG ACC AGAGA </emph> </td> <td> 159702 </td> </tr> <tr> <td> pEFcmvp </td> <td> 159759 </td> <td> <emph>TCGTCGCCGG CTTCGCCTCC TCGGAAGCGC CTAGAAG AAA GACGATCAGG ACC AGAGA </emph> </td> <td> 159702 </td> </tr> <tr> <td> CA351p </td> <td> 159759 </td> <td> <emph>TCGTCGCCGA CTTCGCCTCC TCGGAAGC GC CTAGAAAAAA GACGATCAGG ACC AGAGA </emph> </td> <td> 159702 </td> </tr> <tr> <td> CA350p </td> <td> 159759 </td> <td> <emph>TCGTCGCCGG CTTCGCCTCC TCGGAAGCGC CTAGAAG AAA GACGATCAGG ACC AGAGA </emph> </td> <td> 159702 </td> </tr> <tr> <td> CA391 </td> <td> 160739 </td> <td> <emph>ACC AGATTGC AAGATC TCCG CGTCACCTTT C ATCGAGTAA AACC TAC GTT GGTAGGTC AC </emph> </td> <td> 160797 </td> </tr> <tr> <td> CA393 </td> <td> 160739 </td> <td> <emph>ACC AGATTGC AAGATC TCCG CGTCACCTTT C ATCGAGTAA AACC TAC GTT GGTAGGTC AC </emph> </td> <td> 160797 </td> </tr></table>
+                <quote>
+                    <p>Fig 6. Fragmentos del genoma de CMV que corresponden a la región <html:i>mtrII </html:i>ORF79 que fueron identificados con el programa BLASTN 2.2.10. La notación CA seguido de un número indica muestras problemas. AD169 es la cepa de referencia y pEFcmv es un plásmido que contiene la región ORF 79. Para el caso de las muestras CA350 y CA351 se observa que la comparación de estas secuencias en BLAST inicia la base 159702 del genoma de CMV; y para el caso de las muestras CA391 y CA393 la comparación inicia en la base 160797.</p>
+                </quote>
+            </section>
+            <section>
+                <h>DISCUSION</h>
+                <quote>
+                    <p>En este estudio se observó una frecuencia elevada (57.8%) de infección con CMV en lesión escamosa intraepitelial de grado bajo, en comparación con otro estudio, en el cual utiliza iniciadores dirigidos hacia la secuencia <html:i>mtr</html:i>II, en el que demuestran una prevalencia del 16.1% en LEIGB.<emph><sup> 21</sup> </emph>Por otra parte usando PCRs similares y altamente sensibles, no se ha alcanzado consenso en los resultados. Han y cols., reportaron la presencia de CMV en 67% de pacientes Taiwanesas con cáncer cervical y Zhao W., encontró una prevalencia del 84.2%. En contraste, Thompson y cols., encontraron que solamente 4% de mujeres Australianas con cáncer cervical fueron positivas para CMV.<emph><sup> 20</sup> </emph>La falta de consenso entre estos resultados podría explicarse por la posibilidad de que este Herpesvirus adopta un mecanismo de “hit and run”, un modo de oncogénesis en el cual secuencias de DNA de CMV están ausentes después de que las células han sido transformadas.<emph><sup> 23­25</sup> </emph>Sin embargo, para el caso de la secuencia <html:i>mtr</html:i>II de la cepa Towne de CMV se ha demostrado que es retenida después de la transformación de las células NIH 3T3.<emph><sup> 4</sup> </emph>Estos resultado nos lleva a pensar que la detección de CMV usando PCR, en cáncer cervical o en sus lesiones precursoras, esta influenciada por la presencia o ausencia de secuencias de DNA de CMV y que este fenómeno se explicaría por el tipo de cepa que este infectado la zona cervical.</p>
+                </quote>
+                <quote>
+                    <p>En cuanto a la expresión de cmvIL­10, no se logró detectar ningún transcrito en las muestra positiva a CMV. Este fenómeno se podría explicar debido a que la región que codifica al homologo de IL­10 humana, expresa diferentes transcritos dependiendo de la fase de infección: durante la infección productiva de CMV en fibroblastos humanos, se sintetiza un transcrito que esta conformado de tres exones y que ha sido denominado como cmvIL­10 (anexo 1). En cambio, durante la infección latente de CMV en células progenitoras de granulocitos/macrofagos hay trascripción de la misma región, pero se expresa un transcrito que únicamente tiene dos exones y que ha sido denominado LA­cmvIL­10. La síntesis del trascripto cmvIL­10 durante la infección productiva, empieza en la posición 159642 a diferencia de la síntesis del trascripto que se expresa en la fase latente y que empieza entre la posición 159577­159615 del genoma viral (anexo 2), además, en el trascripto de la fase latente se procesa el primer intron, pero el segundo intron no es procesado, con lo cual codifica un péptido de 139 a.a., a diferencia del transcripto de la fase productiva que si procesa ambos intrones y codifica para un péptido de 175 aa. Es decir el producto de la transcripción en la fase productiva y latente es diferente, lo que nos sugiere que la región que codifica al homologo de la IL­10 humana produce diferentes transcriptos dependiendo del estado de infección.<emph><sup> 7,12,26</sup> </emph>Lo anterior explica la ausencia de transcriptos en la mayoría de los pacientes, ya que durante la síntesis de cDNA de las muestras en pacientes con LEIGB se utilizó una secuencia que alinea en el tercer exon de cmvIL­10 y no se utilizó alguna secuencia que captara transcriptos de fase latente, además, en un estudio hecho por Jenkins C y cols. demostraron que 90% de células progenitoras de granulocitos macrófagos que tienen infección latente con CMV, solamente el 1 y 12% de estas células expresaban el transcripto de fase latente (LA­cmvIL­10) sugiriendo que la latencia puede ocurrir en las células pero no necesariamente hay trascripción de la región que codifica al homologo de la IL­10 humana durante esta fase.<emph><sup> 26</sup> </emph></p>
+                </quote>
+                <quote>
+                    <p>Al evaluar la expresión del ORF 79, encontramos que de las muestras sometidas a RT­PCR, solamente 4 expresaron un fragmento de 168 pb que corresponde al transcripto de <html:i>mtrII</html:i>ORF</p>
+                </quote>
+                <quote>
+                    <p>79. Para descartar que el amplificado no se tratara de contaminación de DNA, estas 4 muestras de RNA fueron tratadas con DNasa y además se sometieron a retrotranscripción con presencia y ausencia de trancriptasa reversa. La presencia de mRNA del ORF 79, es otro argumento, que explica en estas 4 muestras, la ausencia del trascripto cmvIL­10, ya que el procesamiento de ORF 79 podría interrumpir el procesamiento de cmvIL­10. Con estos resultados se propone que esas cuatro pacientes que tienen la infección con VPH­16 y CMV,</p>
+                </quote>
+                <quote>
+                    <p>presentan un mecanismo, adicional al VPH, de transformación inducido por ORF 79. Sin embargo, no se puede descartar que esta secuencia (<html:i>mtr</html:i>II) sea deficiente en la transformación, ya que se ha reportado que la región <html:i>mtr</html:i>II de la cepa Tanaka de CMV no cumple esta función.<emph><sup> 27</sup> </emph></p>
+                </quote>
+                <quote>
+                    <p>En la detección del VHP nosotros hemos usado, para la PCR, dos pares de iniciadores generales (MY09/11 y GP5+/6+). El par de iniciadores MY09/11 ha sido usado predominantemente en estudios epidemiológicos del Norteamérica, Sudamérica y Asia, mientras que el sistema de iniciadores GP5+/6+ han sido utilizados principalmente en Europa.<emph><sup> 19,28</sup> </emph>En nuestro estudio el par de iniciadores MY09/11 arrojó una gran cantidad de resultados negativos (43.2%, resultado no mostrado), por lo tanto fue necesario someter las muestras negativas a una nueva PCR, utilizando los iniciadores GP5+/6+, con el cual se pudieron detectar 24 muestras positivas que originalmente eran negativas por el primer método. Algunas muestras positivas por MY09/11, no se pudieron tipificar por RFLP’s debido a que el producto de PCR fue muy débil, por lo tanto se sometieron a PCR con el par GP y posteriormente a secuenciación directa para genotipificarlas. Dado que los oligonucleotidos MY09/11 han mostrado ser muy útiles en otros estudios, no descartamos que la baja eficiencia que obtuvimos con ellos se deba a problemas técnicos. Con estos hallazgos sugerimos que el uso de los dos pares de oligonucleotidos aumentará indiscutiblemente la detección del DNA del VPH en diferentes muestras de cérvix. Sin embargo, en ocasiones se debe decidir entre el uso de un par de oligonucleotidos que nos garanticen una óptima detección sin aumentar el costo o el esfuerzo, por lo que en nuestra experiencia se recomendaría iniciar el análisis con los oligonucleotidos MY09/11 y posteriormente con el par GP5+/6+, para ampliar el margen de detección del VPH.</p>
+                </quote>
+            </section>
+            <section>
+                <h>CONCLUSIÓN</h>
+                <quote>
+                    <p>X En este estudio se observó una alta frecuencia en la infección con CMV, este resultado nos indica que posiblemente CMV sea un cofactor para el desarrollo de cáncer cervicouterino y sus lesiones precursoras.</p>
+                </quote>
+                <quote>
+                    <p>X A pesar de la alta frecuencia de infección con CMV, no se logró detectar la expresión del transcrito de fase productiva que tiene homología con IL­10 human, sin embargo, no descartamos la idea de que se pudiera expresar el transcrito de fase latente.</p>
+                </quote>
+                <quote>
+                    <p>X La detección de la expresión del transcrito que están involucrado en la transformación (<html:i>mtrII</html:i>ORF49), nos sugiere que CMV podría contribuir como un mecanismo, alterno a VPH, en la transformación del tejido cervical</p>
+                </quote>
+                <quote>
+                    <p>X A pesar de que existen varios factores implicados en la génesis del cáncer cervical y sus lesiones precursoras, la infección con VPH, especialmente la infección con tipos virales clasificados como de alto riesgo oncogénico, sigue siendo el factor más consistente con respecto a la aparición del cáncer cervical.</p>
+                </quote>
+            </section>
+        </section>
+        <section role="backmatter">
+            <section role="apendix">
+                <h><emph>ANEXO 1 </emph></h>
+                <p><object xml:id="bg1" src="01218996-bg1.jpg" /></p>
+                <p>Alineamiento de la secuencia de aminoácidos de la interleucina humana 10, interleucina viral 10 de fase latente (LA­cmvIL­10) e interleucina viral 10 de fase productiva (cmvIL­10). Los aminoácidos conservados se muestran en cajas negras. Los residuos de aminoácidos son numerados a partir de la primera metionina</p>
+                <p><emph><object xml:id="bg2" src="01218996-bg2.jpg" /> </emph></p>
+                <p>Figura 3. Estructura de los transcriptos de la región UL111A expresados durante la infección latente y la infección productiva. Se muestra el transcrito expresado durante la infección productiva y que corresponde a un ORF de 175 aa que codifica para cmvIL­</p>
+                <list>
+                    <item><p><emph>10. </emph>El transcrito expresado durante la infección latente y su correspondiente ORF codifican para una proteína de 139 aa denominada LA­cmvIL­10.<emph><sup> 12</sup> </emph></p></item>
+                </list>
+            </section>
+            <section role="apendix">
+                <h><emph>ANEXO 2 </emph></h>
+                <table xml:id="t1"><tr> <td> <emph>159541 </emph> </td> <td> AATTGGTTCC </td> <td> TACAGAAACT </td> <td> ATTCTAACCG </td> <td> CGGAAGA<emph>AAG </emph> </td> <td> <emph>AAATTGAAAA </emph> </td> <td> <emph>AAAAAATTGA </emph> </td> </tr> <tr> <td> <emph>159601 </emph> </td> <td> <emph>CAAAAACATC </emph> </td> <td> <emph>ATAAC </emph>ATAAA </td> <td> GGACCACCTA </td> <td> CCTGGGACGC </td> <td> G<emph>C </emph>AGTTGGGC </td> <td> GGCGGACTGG </td> </tr> <tr> <td> <emph>159661 </emph> </td> <td> GACGGCATGC </td> <td> TGCGGCG<emph>ATG </emph> </td> <td> <emph>CTGTCGGTGA </emph> </td> <td> <emph>TGGTCTCTTC </emph> </td> <td> <emph>CTCTCTGGTC </emph> </td> <td> <emph>CTGATCGTCT </emph> </td> </tr> <tr> <td> <emph>159721 </emph> </td> <td> <emph>TTTTTCTAGG </emph> </td> <td> <emph>CGCTTCCGAG </emph> </td> <td> <emph>GAGGCGAAGC </emph> </td> <td> <emph>CGGCGACGAC </emph> </td> <td> <emph>GACGATAAAG </emph> </td> <td> <emph>AATACAAAGC </emph> </td> </tr> <tr> <td> <emph>159781 </emph> </td> <td> <emph>CGCAGTGTCG </emph> </td> <td> <emph>TCCAGAGGAT </emph> </td> <td> <emph>TACGCGACCA </emph> </td> <td> <emph>GATTGCAAGA </emph> </td> <td> <emph>TCTCCGCGTC </emph> </td> <td> <emph>ACCTTTCATC </emph> </td> </tr> <tr> <td> <emph>159841 </emph> </td> <td> <emph>GAGTAAAACC </emph> </td> <td> <emph>TACGTTG gta </emph> </td> <td> <emph>ggtcacgtag </emph> </td> <td> <emph>gtacggttta </emph> </td> <td> <emph>ttgcgacggt </emph> </td> <td> <emph>ctttcttttc </emph> </td> </tr> <tr> <td> <emph>159901 </emph> </td> <td> <emph>cgcgtgtcgg </emph> </td> <td> <emph>gtgacgtagt </emph> </td> <td> <emph>tttcctcttg </emph> </td> <td> <emph>tagCAACGTG </emph> </td> <td> <emph>AGGACGACTA </emph> </td> <td> <emph>CTCCGTGTGG </emph> </td> </tr> <tr> <td> <emph>159961 </emph> </td> <td> <emph>CTCGACGGTA </emph> </td> <td> <emph>CGGTGGTCAA </emph> </td> <td> <emph>AGGCTGTTGG </emph> </td> <td> <emph>GGATGCAGCG </emph> </td> <td> <emph>TCATGGACTG </emph> </td> <td> <emph>GTTGTTGAGG </emph> </td> </tr> <tr> <td> <emph>160021 </emph> </td> <td> <emph>CGGTATCTGG </emph> </td> <td> <emph>AGATCGTGTT </emph> </td> <td> <emph>TCCCGCAGGC </emph> </td> <td> <emph>GACCACGTCT </emph> </td> <td> <emph>ATCCCGGACT </emph> </td> <td> <emph>CAAGACGGAA </emph> </td> </tr> <tr> <td> <emph>160081 </emph> </td> <td> <emph>TTGCATAGTA </emph> </td> <td> <emph>TGCGCTCGAC </emph> </td> <td> <emph>GCTAGAATCC </emph> </td> <td> <emph>ATCTACAAAG </emph> </td> <td> <emph>ACATGCGGCA </emph> </td> <td> <emph>ATGT gtaagt </emph> </td> </tr> <tr> <td> <emph>160141 </emph> </td> <td> <emph>gtctctgtgg </emph> </td> <td> <emph>cggcgctgtc </emph> </td> <td> <emph>cgcacagagg </emph> </td> <td> <emph>taacaacgtg </emph> </td> <td> <emph>ttcatagcac </emph> </td> <td> <emph>gctgttttac </emph> </td> </tr> <tr> <td> <emph>160201 </emph> </td> <td> <emph>ttttgtcggg </emph> </td> <td> <emph>ctcccagcCT </emph> </td> <td> <emph>CTGTTAGGTT </emph> </td> <td> <emph>GCGGAGATAA </emph> </td> <td> <emph>GTCCGTGATT </emph> </td> <td> <emph>AGTCGGCTGT </emph> </td> </tr> <tr> <td> <emph>160261 </emph> </td> <td> <emph>CTCAGGAGGC </emph> </td> <td> <emph>GGAAAGGAAA </emph> </td> <td> <emph>TCGGATAACG </emph> </td> <td> <emph>GCACGCGGAA </emph> </td> <td> <emph>AGGTCTCAGC </emph> </td> <td> <emph>GAGTTGGACA </emph> </td> </tr> <tr> <td> <emph>160321 </emph> </td> <td> CGTTGTTTAG </td> <td> CCGTCTCGAA </td> <td> GAGTATCTGC </td> <td> ACTCGAGAAA </td> <td> <emph>GTAG </emph>CGTTGC </td> <td> GATTTGCAGT </td> </tr> <tr> <td> <emph>160381 </emph> </td> <td> CCGCTCCGGT </td> <td> GTCGTTCACC </td> <td> CAGTTACTTT </td> <td> AATAAACGTA </td> <td> <emph>C </emph>TGTTTAACC </td> <td> ACGTTGCGTC </td> </tr> <tr> <td> <emph>160441 </emph> </td> <td> GTGACGTTGT </td> <td> TTGTGGGTGT </td> <td> TGCTAGGCGG </td> <td> GCTGGAAAGA </td> <td> TGATGTATAA </td> <td> ATAGAGTCTG </td> </tr></table>
+                <p>Región <html:i>mtr</html:i>II de CMV. Las secuencias en azul son los sitios de inicio de la transcripción. Inicio de la transcripción de cmvIL­10 empieza en la posición 159642. Inicio de la transcripción de LA­cmvIL­10 entre la posición 159577­159615. El recuadro amarillo con el triplete ATG indica el residuo de metionina en la posición 159678 compartido por ambos transcriptos. Las letras mayúsculas en color rojo muestran los exones de cmv­IL10 y las letras minúsculas denotan los intrones. La citocina en la posición 160430 marca el sitio de para de la transcripción.</p>
+            </section>
+            <bibliography>
+                <h>REFERENCIAS</h>
+                <entry xml:id="1"><emph>McDougall JK, Nelson JA, Myerson D, Beckmann AM, Galloway DA </emph>. HSV, CMV, and HPV in human neoplasia. J Invest Dermatol. 1984. 83(1 Suppl):72­76</entry>
+                <entry xml:id="2"><emph>Wang J, Razzaque A </emph>. Mapping and DNA sequence analysis of the cytomegalovirus transforming domain III (mtrIII). Virus Res. 1993. 30(3):221­238</entry>
+                <entry xml:id="3"><emph>Thompson J, Doniger J, Rosenthal LJ </emph>. A 79 amino acid oncogene is responsible for human cytomegalovirus mtrII induced malignant transformation. Arch Virol. 1994. 136(1­2):161­172.</entry>
+                <entry xml:id="4"><emph>Choudhury S, Woodworth CD, Inamdar A, el­Beik T, DiPaolo JA, Rosenthal LJ </emph>. Differences in retention and expression of transfected human cytomegalovirus Towne <html:i>XbaI</html:i>­E transforming fragment in human cervical and NIH 3T3 lines. Intervirology. 1992. 33(4):187­196</entry>
+                <entry xml:id="5"><emph>Muralidhar S, Doniger J, Mendelson E, Araujo JC, Kashanchi F, Azumi N, Brady JN, Rosenthal LJ </emph>. Human cytomegalovirus mtrII oncoprotein binds to p53 and down­ regulates p53­activated transcription. J Virol. 1996. 70(12):8691­8700</entry>
+                <entry xml:id="6"><emph>Doniger J, Muralidhar S, Rosenthal LJ </emph>. Human cytomegalovirus and human herpesvirus 6 genes that transform and transactivate. Clin Microbiol Rev. 1999. 12(3):367­382.</entry>
+                <entry xml:id="7"><emph>Kotenko SV., S. Saccani, L. S. Izotova, O. V. Mirochnitchenko, and S. Pestka </emph>. Human cytomegalovirus harbors its own unique IL­10 homolog (cmvIL­10). Proc. Natl. Acad. Sci USA. 2000. 79:1695–1700.</entry>
+                <entry xml:id="8"><emph>Raftery MJ, Wieland D, Gronewald S, Kraus AA, Giese T, Schonrich G. </emph>Shaping phenotype, function, and survival of dendritic cells by cytomegalovirus­encoded IL­10. J Immunol. 2004. 173(5):3383­3391.</entry>
+                <entry xml:id="9"><emph>Chang WL, Baumgarth N, Yu D, Barry PA. </emph>Human cytomegalovirus­encoded interleukin­10 homolog inhibits maturation of dendritic cells and alters their functionality. J Virol. 2004. 78(16):8720­8731.</entry>
+                <entry xml:id="10"><emph>Spencer JV, Lockridge KM, Barry PA, Lin G, Tsang M, Penfold ME, Schall TJ </emph>. Potent immunosuppressive activities of cytomegalovirus­encoded interleukin­10. J Virol. 2002. 76(3):1285­1292.</entry>
+                <entry xml:id="11"><emph>Cheeran MC, Hu S, Sheng WS, Peterson PK, Lokensgard JR </emph>. CXCL10 production from cytomegalovirus­stimulated microglia is regulated by both human and viral interleukin­10. J Virol. 2003. 77(8):4502­15.</entry>
+                <entry xml:id="12"><emph>Jones BC, Logsdon NJ, Josephson K, Cook J, Barry PA, Walter MR. </emph>Crystal structure of human cytomegalovirus IL­10 bound to soluble human IL­10R1. Proc Natl Acad Sci U S A. 2002. 99(14):9404­9049.</entry>
+                <entry xml:id="13"><emph>Moore KW, de Waal Malefyt R, Coffman RL, O'Garra A </emph>. Interleukin­10 and the interleukin­10 receptor. Annu Rev Immunol. 2001. 19:683­765.</entry>
+                <entry xml:id="14">Jacobs N, Giannini SL, Doyen J, Baptista A, Moutschen M, Boniver J, Delvenne</entry>
+                <entry xml:id="15"><emph>P </emph>. Inverse modulation of IL­10 and IL­12 in the blood of women with preneoplastic lesions of the uterine cervix. Clin Exp Immunol. 1998. 111(1):219­224.</entry>
+                <entry xml:id="16"><emph>Arany I, Grattendick KG, Tyring SK </emph>. Interleukin­10 induces transcription of the early promoter of human papillomavirus type 16 (HPV16) through the 5'­segment of the upstream regulatory region (URR). Antiviral Res. 2002. 55(2):331­339.</entry>
+                <entry xml:id="17"><emph>Lo SK, Woo PC, Yuen KY </emph>. Hot spot mutations in morphological transforming region II (ORF 79) of cytomegalovirus strains causing disease from bone marrow transplant recipients. Arch Virol. 1999.144(3):601­612</entry>
+                <entry xml:id="18"><emph>Bauer HM, Creer EC and Manos MM. </emph>Determination of genital human papilomavirus infection by consensus PCR amplification. En: Herrintong SC, McGee OJ, ed.</entry>
+                <entry xml:id="19">Diagnostic molecular pathology: a practical approach. Oxford: Oxford Unyversity Press ; 1993:407­413.</entry>
+                <entry xml:id="20"><emph>Bauer HM and Manos. </emph>PCR detection of genital human papilomavirus. En: Persing HD, Emith FT, Tenover CF, White JT, ed. Diagnostic molecular microbiology. Washington, DC: American society of microbiology; 1993:407­413.</entry>
+                <entry xml:id="21"><emph>Roda­Husman AM, Walboomers JM, Van den Brule AJ, Meijer CJ, Snijders PJ </emph>. The use of general primers GP5 and GP6 elongated at their 3' ends with adjacent highly conserved sequences improves human papillomavirus detection by PCR. J Gen Virol 1995. 76(4):1057­1062.</entry>
+                <entry xml:id="22"><emph>Thompson CH, Rose BR, Elliott PM </emph>. Cytomegalovirus and cervical cancer: failure to detect a direct association or an interaction with human papillomaviruses. Gynecol Oncol. 1994. 54(1):40­6.</entry>
+                <entry xml:id="23"><emph>Chan PK, Chan MY, Li WW, Chan DP, Cheung JL, Cheng AF </emph>. Association of human beta­herpesviruses with the development of cervical cancer: bystanders or cofactors. J Clin Pathol. 2001. 54(1):48­53.</entry>
+                <entry xml:id="24"><emph>Han CP, Tsao YP, Sun CA, Ng HT, Chen SL </emph>. Human papillomavirus, cytomegalovirus and herpes simplex virus infections for cervical cancer in Taiwan. Cancer Lett. 1997. 120(2):217­21.</entry>
+                <entry xml:id="25"><emph>McDougall JK </emph>. "Hit and run" transformation leading to carcinogenesis. Dev Biol (Basel). 2001. 106:77­82.</entry>
+                <entry xml:id="26"><emph>Ambinder RF. </emph>Gammaherpesviruses and "Hit­and­Run" oncogenesis. Am J Pathol. 2000;156:1­3.</entry>
+                <entry xml:id="27"><emph>Shen Y, Zhu H, Shenk T </emph>. Human cytomagalovirus IE1 and IE2 proteins are mutagenic and mediate "hit­and­run" oncogenic transformation in cooperation with the adenovirus E1A proteins. Proc Natl Acad Sci U S A. 1997.94 (7):3341­3345</entry>
+                <entry xml:id="28"><emph>Jenkins C, Abendroth A, Slobedman B </emph>. A novel viral transcript with homology to human interleukin­10 is expressed during latent human cytomegalovirus infection. J Virol. 2004. 78(3):1440­1447</entry>
+                <entry xml:id="29"><emph>Jahan N, Razzaque A, Brady J, Rosenthal LJ </emph>. The human cytomegalovirus mtrII colinear region in strain Tanaka is transformation defective. J Virol. 1989.63:2866­ 2869.</entry>
+                <entry xml:id="30"><emph>Remmerbach TW, Brinckmann UG, Hemprich A, Chekol M, Kuhndel K, Liebert UG </emph>. PCR detection of human papillomavirus of the mucosa: comparison between MY09/11 and GP5+/6+ primer sets. J Clin Virol. 2004. 30(4):302­308.</entry>
+            </bibliography>
+        </section>
+    </body>
+</document>

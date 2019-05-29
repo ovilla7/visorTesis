@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='http://xml.ibsa.mx/xml-style/z3998-base.css' title='Z39.98-AI generic' alternate='no'?>
+<document xmlns="http://www.daisy.org/ns/z3998/authoring/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:rend="http://www.daisy.org/ns/z3998/authoring/features/rend/" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="es" xml:id="doc">
+    <head>
+        <meta rel="z3998:profile" resource="http://www.daisy.org/z3998/2012/auth/profiles/genericdocument/0.5/">
+            <meta property="z3998:name" content="genericdocument" />
+            <meta property="z3998:version" content="0.5" />
+            <meta rel="z3998:feature" resource="http://www.daisy.org/z3998/2012/auth/features/rend/0.5/">
+                <meta property="z3998:name" content="rend" />
+                <meta property="z3998:version" content="0.5" />
+            </meta>
+        </meta>
+        <meta rel="z3998:rdfa-context" resource="http://www.daisy.org/z3998/2012/vocab/context/default/" />
+        <meta property="dc:type" content="info:eu-repo/semantics/masterThesis" />
+        <meta property="dc:format" content="text/xml" />
+        <meta property="dc:format" content="application/pdf" />
+        <meta property="dc:rights" content="info:eu-repo/semantics/openAccess" />
+
+        <meta property='fig-count' content='3'/>
+        <meta property='table-count' content='4'/>
+        <meta property='ref-count' content='24'/>
+    </head>
+    <body>
+        <section role="frontmatter">
+            <section role="cover">
+                <p><object xml:id="fg1" src="01218987-fg1.jpg" /></p>
+                <p>UNIVERSIDAD AUTÓNOMA DE GUERRERO</p>
+                <p><emph>UNIDAD ACADÉMICA FACULTAD DE CIENCIAS QUÍMICO BIOLÓGICAS UNIDAD ACADÉMICA FACULTAD DE MEDICINA </emph></p>
+                <p><emph>“EXPRESIÓN DE LOS GENES MGMT Y FHIT EN LESIONES PRECANCEROSAS Y CÁNCER CÉRVICO UTERINO” </emph></p>
+                <p><emph>T E S I S </emph></p>
+                <p>QU E P A RA O B T E NE R E L G R AD O DE</p>
+                <p>MAESTRÍA EN CIENCIAS BIOMÉDICAS</p>
+                <p>P R E S E N T A :</p>
+                <p>YANET H CAS TRO CORONEL</p>
+                <p>DIRECTORA DE TESIS: DRA. BERENICE ILLADES AGUIAR</p>
+                <p>CHILPANCINGO, GRO., MARZO DE 2005.</p>
+            </section>
+            <section>
+                <p><emph>Expresión de los Genes MGMT y FHIT en Lesiones Precancerosas y Cáncer Cervical </emph></p>
+                <p>Este trabajo fue realizado en el laboratorio de Biomedicina Molecular de la Unidad Académica Facultad de Ciencias Químico Biológicas de la Universidad Autónoma de Guerrero.</p>
+                <p>Trabajo financiado por el Fondo Mixto CONACYT-Gobierno del Estado de Guerrero, clave: GUE-2002-COI-6523</p>
+            </section>
+            <section role="acknowledgments">
+                <h>AGRADECIMIENTOS</h>
+                <p>Agradezco de forma especial a mi directora de tesis, Dra. Berenice Illades Aguiar por la ayuda y el tiempo brindado para el desarrollo de este trabajo.</p>
+                <p>Agradezco también a mis asesores, Dr. Saúl López Silva, Dra. Esther Ivonne López-Bayghen Patiño, Dra. Mónica Espinoza Rojo, M en C Gloria Fernández Tilapa y el Dr. Alejandro Millán Vega.</p>
+                <p>Dedico mi trabajo a mis padres, hermanos y a ti</p>
+                <p><emph>que te espero con gran emoción. </emph></p>
+            </section>
+            <toc>
+                <h><emph>CONTENIDO </emph></h>
+                <entry>Página Abreviaturas …………………………………………………….. i Índice de cuadros.................................................................................................. ii</entry>
+                <entry>Índice de figuras.................................................................................... iii</entry>
+                <entry>Resumen................................................................................................ iv</entry>
+                <entry>Abstract................................................................................................. v</entry>
+                <entry>I. INTRODUCCIÓN…………………………………………... 1</entry>
+                <entry>II. MATERIAL Y METODOS............................................................ 3</entry>
+                <entry>III. RESULTADOS.............................................................................. 5</entry>
+                <entry>IV. DISCUSIÓN Y CONCLUSIONES............................................. 10</entry>
+                <entry>V. REFERENCIAS............................................................................ 13</entry>
+            </toc>
+            <section role="glosary">
+                <h><emph>ABREVIATURAS </emph></h>
+                <p><emph>CaCU </emph>Cáncer cérvico uterino</p>
+                <p><emph>VPH </emph></p>
+                <p>Virus del papiloma humano</p>
+                <p><emph>RT-PCR </emph></p>
+                <p>Transcripción reversa acoplada a la reacción en cadena de la polimerasa</p>
+                <p><emph>PCR </emph></p>
+                <p>Reacción en cadena de la polimerasa</p>
+                <p><emph>RFLPs </emph></p>
+                <p>Restricción de fragmentos polimórficos de longitud variable</p>
+                <p><emph>HIT </emph></p>
+                <p>Triada de histidinas</p>
+                <p><emph>LEIBG </emph></p>
+                <p>Lesión escamosa intraepitelial de bajo grado</p>
+                <p><emph>LEIAG </emph></p>
+                <p>Lesión escamosa intraepitelial de alto grado</p>
+                <p><emph><html:i>FHIT </html:i></emph></p>
+                <p>Gen frágil de la triada de histidinas</p>
+                <p><emph><html:i>MGMT </html:i></emph></p>
+                <p>Gen reparador O<sup> 6</sup> -metilguanina-DNA metiltransferasa</p>
+            </section>
+            <toc>
+                <h><emph>INDICE DE CUADROS </emph></h>
+                <entry><emph><html:i> Cuadro I. </html:i></emph> Edad promedio y positividad al VPH agrupada por el tipo de lesión.</entry>
+                <entry>Página</entry>
+                <entry>5</entry>
+                <entry><emph><html:i> Cuadro II. </html:i></emph> Frecuencia de los genotipos de VPH agrupada por el tipo de <emph>6</emph></entry>
+                <entry>lesión.</entry>
+                <entry><emph><html:i> Cuadro III. </html:i></emph> La expresión de MGMT y FHIT fue clasificada en tres <emph>7</emph></entry>
+                <entry>categorías.</entry>
+                <entry><emph><html:i> Cuadro IV </html:i></emph><html:i> . </html:i> Expresión de FHIT y MGMT en cáncer cervical, lesiones <emph>8</emph></entry>
+                <entry>precancerosas y cérvix normal.</entry>
+            </toc>
+            <toc>
+                <h><emph>INDICE DE FIGURAS </emph></h>
+                <entry>Página</entry>
+                <entry><emph><html:i>Figura 1. </html:i></emph>Organización del gen <html:i>FHIT</html:i><sup> 14</sup> <emph>2</emph></entry>
+                <entry><emph><html:i>Figura 2. </html:i></emph>Análisis representativo de la RT-PCR semicuantitativa <emph>7</emph></entry>
+                <entry><emph><html:i>Figura 3. </html:i></emph>del gen MGMT y FHIT.</entry>
+                <entry>Los niveles de expresión de MGMT y FHIT.</entry>
+                <entry><emph>9 </emph></entry>
+            </toc>
+            <section role="abstract" xml:lang="es" property="dc:description">
+                <h><emph>RESUMEN </emph></h>
+                <p><emph>Objetivo. </emph>Analizar la expresión de los genes MGMT y FHIT, en tejido cervical normal, lesión intraepitelial escamosa de grado bajo (LEIBG), cáncer cervical invasor y realizar la detección de VPH. <emph>Materiales y métodos. </emph>Se realizó un estudio transversal analítico, con muestras captadas de agosto del 2002 a diciembre del 2003 en el Instituto Estatal de Cancerología “Dr. Arturo Beltrán Ortega” de Acapulco Guerrero. La expresión de los genes MGMT y FHIT se determino mediante RT-PCR semicuantitativa. La prueba de Mann-Whitney fue usada para comparar los niveles de expresión de los genes MGMT y FHIT entre muestras de dos grupos. <emph>Resultados. </emph>Se analizaron 60 muestras: 20 raspados cervicales normales, 21 biopsias con diagnostico de LIEGB y 19 biopsias con diagnostico de cáncer cervical. En citología cervical normal detectamos una reducción en la expresión de FHIT en 50% (10/20) de las muestras analizadas, mientras que el gen MGMT mostró una expresión moderada y fuerte en 65% (13/20) de las muestras. En las muestras de LEIGB tanto el gen FHIT como el gen MGMT mostraron una expresión moderada y fuerte en 66.7% (14/21) y 76.2% (16/21) respectivamente. Como era de esperarse en el cáncer cervical invasor, hubo una notable disminución en la expresión de ambos genes comparada con los grupos de citología normal cervical y LIEBG, reportando un 84.2% (16/19) de expresión nula o débil del gen FHIT (P = 0.009) y 89.5% de expresión nula o débil del gen MGMT (P = 0.011) encontrando diferencias estadísticamente significativas en los niveles de expresión entre grupos. <emph>Conclusiones. </emph>La pérdida de expresión de los genes FHIT y MGMT fue un evento frecuente en cáncer cervical, siendo más frecuente la pérdida de expresión de MGMT. Se observo la pérdida de expresión de FHIT y MGMT desde la citología normal hasta el cáncer cervical, sugiriendo quizá que la pérdida de expresión de estos genes podría ser un evento temprano en el desarrollo de cáncer cervical. Proponemos en estudios subsecuentes como hipótesis futura al analizar la expresión de estos dos genes en mujeres con citologías normales, que quizá la perdida de expresión de estos genes sea un marcador útil en la predicción temprana.</p>
+            </section>
+            <section role="abstract" xml:lang="es" property="dc:description">
+                <h><emph>ABSTRACT </emph></h>
+                <p><emph>Aim. </emph>Analyze the expression level of mRNA of the MGMT and FHIT genes in normal cervical cancer, low grade squamous intraepithelial lesion (LGSIL) and invasive cervical cancer. <emph>Materials and methods. </emph>An analytical transversal study was carried out, in which the samples were collected from agust del 2002 a December, 2003 in the Instituto Estatal de Cancerología “Dr. Arturo Beltrán” in Acapulco, Guerrero.</p>
+                <p>The detection of expression level of mRNA the MGMT and FHIT genes was done by semi- quantitative RT-PCR. The associations between variables were established using the test statistic the Mann-Whitney.</p>
+                <p><emph>Results. </emph>Sixty samples were analyzed: 20 of normal cytology, 21 of LGSIL and 19 of cervical cancer. In the normal cervical cytology was detected a reduction or absence of FHIT and MGMT expression in Fifty percent and Thirty five percent respectively.</p>
+                <p>The expression mRNA was detected in 66.7% of LGSIL exhibited a moderate and strong expression of FHIT, in 76.2% exhibited a moderate and strong expression of MGMT and cervical cancer had a reduction or absence expression in both genes in comparation with normal cervical cytology normal cervical and LGSIL showed in 84.2% and 89.5% of expression of FHIT and MGMT genes respectively .</p>
+                <p><emph>Conclusions. </emph></p>
+                <p>La pérdida de expresión de los genes FHIT y MGMT fue un evento frecuente en cáncer cervical, siendo más frecuente la pérdida de expresión de MGMT. Nosotros observamos la pérdida de expresión de FHIT y MGMT desde la citología normal hasta el cáncer cervical, podemos decir que la pérdida de expresión de estos dos genes podría ser un evento temprano en el desarrollo de cáncer cervical. Suponiendo entonces que las mujeres que tienen pérdida de la expresión de uno o ambos genes tienen más riesgo de desarrollar LEIBG y cáncer cervical que las que presentan expresión de ambos genes.</p>
+            </section>
+        </section>
+        <section role="bodymatter">
+            <section>
+                <h>INTRODUCCIÓN</h>
+                <quote>
+                    <p>El cáncer cervicouterino constituye uno de los principales problemas de salud en el mundo debido a su patología y frecuencia.<sup> 1</sup> Es la segunda malignidad más frecuente, el índice de incidencia en países desarrollados es de 10 por 100,000 y en países en desarrollo es de más de 40 por 100,000.<sup> 2</sup> El cáncer cervicouterino resulta de una subversión de los procesos que controlan el crecimiento, proliferación, diferenciación y muerte celular, originando como consecuencia cambios morfológicos del epitelio normal que progresan a carcinoma a través de lesiones precancerosas bien definidas. Estudios epidemiológicos y moleculares han demostrado que el virus del papiloma humano (VPH) es el agente etiológico en la carcinogénesis cervical.<sup> 2</sup> Sin embargo, sólo una pequeña fracción de lesiones neoplásicas intraepiteliales infectadas con VPH progresa a cáncer invasor, sugiriendo que además del VPH, otros eventos genéticos que incluyen cambios en genes supresores de tumor y oncogenes así como alteraciones microsatélites ejemplo pérdida de la heterozigosidad (LOH) y eventos epigenéticos están involucrados en la carcinogénesis cervical.<sup> 3,</sup> <sup> 4</sup> Las alteraciones a nivel molecular pueden influir en la expresión de ciertos genes y por lo tanto afectar de manera adversa la función celular, pudiendo ocasionar el inicio de un proceso patológico.<sup> 5</sup> En el desarrollo de cáncer, genes supresores de tumor y genes reparadores de daño al DNA son inactivados por diversos mecanismos, entre los cuáles están mutaciones puntuales y eliminaciones cromosomales. Además, numerosas investigaciones argumentan que algunos eventos epigenéticos pueden estar involucrados, ocasionando el silenciamiento de ciertos genes tales como <html:i>MGMT, RB, VHL, p16</html:i><sup> INAK4A</sup> , <html:i>FHIT, hMLH1 </html:i>en el desarrollo del cáncer.<sup> 6,</sup> <sup> 7</sup></p>
+                </quote>
+                <quote>
+                    <p>El gen humano <html:i>FHIT </html:i>“fragile histidine triad” codifica para una proteína de 16.8 kDa conformada de 147 aminoácidos.<sup> 8,</sup> <sup> 9</sup> Este gen está localizado en el cromosoma 3p14.2 y se ha propuesto como un gen supresor de tumor. Se observa frecuentemente la pérdida de alelo, eliminaciones homocigotas y transcritos de FHIT aberrantes en muchos cánceres humanos, incluyendo el de hígado, páncreas, mama y cérvix.<sup> 9</sup> Para el gen <html:i>FHIT </html:i>(fig. 1), se ha descrito una translocación cromosómica t(3;8) involucrada en el carcinoma familiar renal y se encuentra en el sitio frágil más común del genoma humano, FRA3B, el cuál es susceptible a rearreglos inducidos por una variedad de carcinógenos ambientales.<sup> 8</sup></p>
+                </quote>
+                <quote>
+                    <p>Butler y col.<sup> 9</sup> sugieren que la pérdida de <html:i>FHIT </html:i>pudiera ser un evento temprano en la tumorigénesis, debido a su localización y al alto porcentaje de pérdida de la heterocigocidad reportado en 3 p14 en cáncer cervical y otros tumores, que lo señala como un posible gen supresor de tumor.<sup> 9</sup></p>
+                </quote>
+                <p><emph><object xml:id="f1" src="01218987-f1.jpg" /></emph></p>
+                <quote>
+                    <p><emph> Fig. 1. </emph> Organización del gen <html:i>FHIT. </html:i>Marcos de lectura abiertos (1-10), exones no codificantes (1-4, 10), exones que codifican a la proteína del gen (5-9) y el sitio frágil FRA3B.<sup> 4</sup></p>
+                </quote>
+                <quote>
+                    <p>La O<sup> 6</sup> -metilguanina-DNA metiltransferasa (MGMT) es una proteína reparadora que protege a las células contra los efectos carcinógenicos y citotóxicos de agentes alquilantes, trasfiriendo los grupos alquilo del O<sup> 6</sup> de la guanina a un residuo de cisteína de la proteína. Esto previene la generación de mutaciones debido a la tendencia de la O<sup> 6</sup> alquilguanina de aparearse con la timina durante la replicación del DNA, resultando en la conversión de pares G-C a pares A-</p>
+                </quote>
+                <quote>
+                    <p>T. 19 La falta de expresión de <html:i>MGMT </html:i>puede influir en la carcinogénesis inducida por agentes</p>
+                </quote>
+                <quote>
+                    <p>alquilantes tales como N-nitrosaminas.<sup> 10</sup> Algunas investigaciones sugieren que la pérdida de su expresión no se debe comúnmente a eliminaciones, mutaciones, rearreglos o inestabilidad del RNAm. Se proponen otras causas para la pérdida de la actividad, como la hipermetilación de islas CpG normalmente no metiladas en la región promotora, ya que con otros genes también se ha correlacionado está pérdida.<sup> 11</sup> La falta de expresión de <html:i>MGMT </html:i>se ha relacionado con el desarrollo de gliomas, cáncer de pulmón de células no pequeñas, cáncer de</p>
+                </quote>
+                <quote>
+                    <p>colon y cáncer cervical.<sup> 10</sup> Se ha identificado un número limitado de genes que se encuentran frecuentemente inactivos en diferentes cánceres humanos, ya sea por alteraciones genéticas como deleciones cromosomales, por la pérdida de función debido a mutaciones o por alteraciones epigenéticas recientemente reportadas.<sup> 12</sup> Se ha reportado la ausencia de la proteína FHIT en cáncer cervical y disminución o pérdida de expresión del gen MGMT.<sup> 13,</sup> <sup> 11,</sup> <sup> 10</sup> Por lo tanto la propuesta de este estudio es analizar la expresión de MGMT y FHIT, mediante la técnica de RT-PCR seimicuantitativa, en tejido cervical normal, lesiones precancerosas y cáncer cervical invasor, puesto que tanto su ausencia como disminución de expresión es evento que puede ser muy importante en la carcinogénesis cervical.</p>
+                </quote>
+            </section>
+            <section>
+                <h>MATERIALES Y MÉTODOS</h>
+                <quote>
+                    <p><emph> Población y colección de muestras. </emph> Se realizará un estudio de tipo transversal el cual se llevara a cabo en el Laboratorio Biomedicina Molecular de la Unidad Académica de Ciencias Químico Biológicas perteneciente a la Universidad Autónoma de Guerrero. El estudio se realizó en biopsias obtenidas de pacientes con cáncer cervical, lesión escamosa intraepitelial de bajo grado (LEIBG) y raspados cervicales con citología normal. Se obtuvieron 60 especímenes: 20 citologías normales, 21 de LIEGB y 19 de cáncer cervical que se captaron de agosto del 2002 a diciembre del 2003 en el Instituto Estatal de Cancerología “Dr. Arturo Beltrán Ortega” de Acapulco Gro. La toma de las biopsias fue dirigida por colposcopía y el diagnóstico histológico y citológico lo llevó a cabo un patólogo calificado de la misma institución. El grado de lesión cervical fue establecido en base al sistema de Bethesda. Las biopsias fueron transportadas en hielo seco y congeladas a -70 ° C antes de la extracción de ácidos nucleícos. La extracción de RNA total se hizo con TRIzol (Invitrogen). La medición de pureza y concentración de RNA fue realizada por espectrofotometría.</p>
+                </quote>
+                <quote>
+                    <p><emph> Obtención de DNA y tipificación del VPH. </emph> En todas las muestras se buscó el DNA del VPH por reacción en cadena de la polimerasa (PCR), con los iniciadores MY11 y MY09 que amplifican un fragmento de 450 pb del gen L1.<sup> 15,</sup> <sup> 16</sup> La mezcla de PCR incluyó buffer de PCR Gold 10X (concentración final 1X), 2 mM MgCl<sub>2,</sub> 0.6 mM deoxinucleótidos trifosfato, 0.8 m M iniciadores, 1.25 U de ampli taq Gold DNA polimerasa (Applied Biosystems) y ~1 m g de DNA molde. La temperatura de alineamiento fue a 54ºC. La amplificación se realizó en el</p>
+                </quote>
+                <quote>
+                    <p>termociclador PERKIN ELMER utilizando 40 ciclos. Como control positivo se usó DNA plásmidico con VPH 16 y como control negativo H<sub>2</sub>O. La genotipificación se realizó por restricción de fragmentos polimórficos,<sup> 17</sup> con el uso de 7 enzimas de restricción: <html:i>Bam</html:i>HI, <html:i>Dde</html:i>I, <html:i>Hae</html:i>III, <html:i>Hinf</html:i>I, <html:i>Pst</html:i>I, <html:i>Rsa</html:i>I y <html:i>Sau</html:i>3AI (Gibco BRL). Los productos de PCR y de las restricciones se analizaron en gel de agarosa (Invitrogen) al 1.5 y 3% respectivamente, teñidos con bromuro de etidio y visualizados bajo luz UV.</p>
+                </quote>
+                <quote>
+                    <p><emph> Expresión de FHIT Y MGMT por RT-PCR. </emph> Se usaron 2.5 m g de RNA total para la transcripción reversa utilizando el ENHANCED AVIAN HS RT-PCR KIT (Sigma), la mezcla de reacción para este efecto incluyó, 1 m l de Oligo(dT) concentración final 1-3.5 m M, dNTPs 10mM concentración final 500 m M de cada uno, 10X Buffer AMV RT, (500 mM Tris-HCl, pH 8.3, 400 mM KCL, 80 mM MgCl<sub>2,</sub> 10 mM DTT), inhibidor de RNasas 20 U/ m l concentración final 0.4 U/ m l y H<sub>2</sub>O tratada con dietilpirocarbonato (DEPC) en un volumen total de 20 m l. La mezcla se incubó a 42º C por 50 min posteriormente a 70º C por 10 minutos.</p>
+                </quote>
+                <quote>
+                    <p>El cDNA sintetizado se usó para el análisis de expresión de MGMT y FHIT. Los iniciadores usados para el RNAm de MGMT fueron: el sentido, 5’ GCACGAAATAAAGCTCCTGG, y el antisentido, 5’ AGGGCTGCTAATTGCTGGTA.<sup> 18</sup> La expresión de FHIT se analizó con los iniciadores (5UI y 3D1) utilizados por Tanaka <html:i>et al</html:i>. 5U1, 5’TCCGTAGTGCTATCTACAT y 3D1, 5’ CATGCTGATTCAGTTCCTCTTGG.<sup> 13</sup> Las condiciones de amplificación fueron 29 ciclos a 95°C por 1min, 57°C por 45 s y 72°C por 1 min para el gen MGMT y 36 ciclos a 95°C por 45s, 58°C por 1 min y 72°C por 45s para el gen FHIT. Para confirmar la integridad del cDNA se analizó la expresión de β-actina con los iniciadores recomendados por el ENHANCED AVIAN HS RT-PCR KIT, sentido 5’ TGCGTGACATTAAGGAGAAG y</p>
+                </quote>
+                <quote>
+                    <p>antisentido 5’CTGCATCCTGTCGGCAATG. La amplificación paralela del RNAm de b - actina expresado constitutivamente fue utilizado como control interno para normalizar la expresión de los genes MGMT y FHIT. Los productos de PCR se corrieron en geles de agarosa (Invitrogen) al 2.5%, se tiñeron con bromuro de etidio y se visualizaron bajo luz UV. Para cuantificar el mRNA de MGMT y FHIT se utilizó el programa Gel-Pro Analyzer 3.1 instalado en el fotodocumentador Syngene Genegenius.</p>
+                </quote>
+                <quote>
+                    <p><emph> Análisis de datos. </emph> Para comparar los niveles de expresión de MGMT y FHIT entre dos grupos de muestras se utilizo la prueba estadística de Mann-Whitney para variables no paramétricas.</p>
+                </quote>
+            </section>
+            <section>
+                <h>RESULTADOS</h>
+                <quote>
+                    <p>En el cuadro I se presenta la distribución de la media, el rango de edad y la infección por VPH detectada por PCR de acuerdo al diagnostico citológico e histológico. En las pacientes citológicamente normales y con LEIBG la media y el rango de edad fueron muy similares, mientras que las pacientes con cáncer cervical son de mayor edad en comparación con los otros grupos.</p>
+                </quote>
+                <quote>
+                    <p><emph> Cuadro I. </emph> Edad promedio y positividad al VPH agrupada por el grado de lesión</p>
+                </quote>
+                <table xml:id="t1"><tr> <td> Diagnóstico </td> <td> n 60 </td> <td> Rango de edad (años) </td> <td> Media (años) </td> <td> VPH + % </td> </tr> <tr> <td> Citología cervical normal </td> <td> 20 </td> <td> 20 - 68 </td> <td> 35.1 </td> <td> 50 </td> </tr> <tr> <td> LEIBG </td> <td> 21 </td> <td> 20 - 67 </td> <td> 35.0 </td> <td> 66.6 </td> </tr> <tr> <td> Cáncer cervical invasor </td> <td> 19 </td> <td> 30 - 70 </td> <td> 52.9 </td> <td> 100 </td> </tr></table>
+                <quote>
+                    <p>En el cuadro II se reportan los genotipos de VPH detectados en los tres grupos de muestras analizadas. En las muestras de tejido cervical normal y cáncer cervical, el VPH tipo 16 fue el que se encontró más frecuentemente. En las citologías normales, de las muestras positivas a VPH el 70% presentaron tipos de alto riesgo oncogénico. En cáncer cervical todas las muestras que se genotificaron fueron VPH de alto riesgo oncogenico siendo el más frecuente el VPH tipo 16.</p>
+                </quote>
+                <quote>
+                    <p><emph> Cuadro II. </emph> Frecuencia de los genotipos de VPH agrupadas por el grado de lesión</p>
+                </quote>
+                <table xml:id="t2"><tr> <td> Genotipos de VPH </td> <td> Citología normal n (%) </td> <td> LEIBG n (%) </td> <td> Cáncer cervical n (%) </td> </tr> <tr> <td> VPH- 16 </td> <td> 3 (15) </td> <td> 5 (23.8) </td> <td> 8 (42.0) </td> </tr> <tr> <td> VPH-18 </td> <td> -- </td> <td> 3 (14.3) </td> <td> 2 (10.5) </td> </tr> <tr> <td> VPH-33 </td> <td> -- </td> <td> -- </td> <td> 1 (5.3) </td> </tr> <tr> <td> VPH-39 </td> <td> 1 (5) </td> <td> -- </td> <td> -- </td> </tr> <tr> <td> VPH-45 </td> <td> -- </td> <td> 3 (14.3) </td> <td> 1 (5.3) </td> </tr> <tr> <td> VPH-52 </td> <td> -- </td> <td> 1 (4.8) </td> <td> -- </td> </tr> <tr> <td> VPH-53 </td> <td> 1 (5) </td> <td> -- </td> <td> -- </td> </tr> <tr> <td> VPH-58 </td> <td> 2(10) </td> <td> -- </td> <td> 1 (5.3) </td> </tr> <tr> <td> VPH-59 </td> <td> -- </td> <td> -- </td> <td> 1 (5.3) </td> </tr> <tr> <td> VPH-CP141 </td> <td> 1(5) </td> <td> -- </td> <td> -- </td> </tr> <tr> <td> VPH-6B </td> <td> -- </td> <td> 2 (9.5) </td> <td> -- </td> </tr> <tr> <td> VPH IM </td> <td> 1 (5) </td> <td> -- </td> <td> -- </td> </tr> <tr> <td> VPH NT </td> <td> 1 (5) </td> <td> -- </td> <td> 5 (26.3) </td> </tr> <tr> <td> VPH Negativos </td> <td> 10 (50) </td> <td> 7 (33.3) </td> <td> -- </td> </tr> <tr> <td> Total </td> <td> 20 (100) </td> <td> 21 (100) </td> <td> 19 (100) </td> </tr> <tr> <td> VPH alto riesgo<sup> a</sup> VPH bajo riesgo<sup> b</sup> </td> <td> 7 (70) 1 (10) </td> <td> 12 (85.7) 2 (14.3) </td> <td> 14 (73.7) </td> </tr></table>
+                <quote>
+                    <p>VPH IM, infección múltiple, VPH NT, VPH no tipificados.</p>
+                </quote>
+                <quote>
+                    <p>a VPH alto riesgo: 16, 18, 33, 39, 45, 52, 53, 58 y 59.<sup> 1</sup></p>
+                </quote>
+                <quote>
+                    <p>b VPH bajo riesgo: CP141, 6B, <sup> 1</sup></p>
+                </quote>
+                <quote>
+                    <p>Como siguiente paso, se analizó la expresión de los genes MGMT y FHIT en 20 especímenes de tejido cervical normal, 21 lesiones precancerosas y 19 de cáncer cervical invasor mediante RT-PCR semicuantitativa. En la figura 2 se muestra un ensayo representativo de la RT-PCR semicuantitativa de MGMT y FHIT.</p>
+                </quote>
+                <p><emph><object xml:id="f2" src="01218987-f2.jpg" /></emph></p>
+                <quote>
+                    <p><emph> Fig. 2. </emph> Ensayo representativo de la RT-PCR semicuantitativa del gen FHIT (A) y MGMT (B). La integridad del cDNA de todas las muestras fue verificada con la amplificación de β- actina. (C) La banda de amplificación correspondiente a β-actina es de 316 pb. Dos m l de H<sub>2</sub>O desionizada estéril fue usado como templete para el control negativo, N. El θX174 digerido con <html:i>Hae </html:i>III fue usado como marcador de tamaño molecular, M. Se utilizó una muestra citológicamente normal positiva a ambos genes como control positivo, P. Tejido cervical normal, CN. Lesión escamosa intraepitelial de grado bajo, LEI. Cáncer cervical, CC.</p>
+                </quote>
+                <quote>
+                    <p>El nivel de expresión fue normalizado con el gen de β-actina ampliamente utilizado por otros investigadores<sup> 14</sup> . Las muestras de los tres grupos de estudio fueron agrupadas en rangos considerando el porcentaje mínimo y máximo de expresión de cada gen (cuadro III) categorisandolas de la siguiente manera: a) Expresión nula o débil b) expresión moderada y c) expresión fuerte.</p>
+                </quote>
+                <quote>
+                    <p><emph>Cuadro III </emph>. Rangos de expresión de MGMT y FHIT</p>
+                </quote>
+                <table xml:id="t3"><tr> <td> Rangos </td> <td> MGMT </td> <td> FHIT </td> </tr> <tr> <td> Nula o débil </td> <td> 0 - 33.3% </td> <td> 0 – 37.5% </td> </tr> <tr> <td> Moderada </td> <td> 33.4 – 66.7% </td> <td> 37.6 – 75.1 </td> </tr> <tr> <td> Fuerte </td> <td> 66.8 - 100.7% </td> <td> 75.2 – 112.7% </td> </tr></table>
+                <quote>
+                    <p>Las citologías normales mostraron una expresión moderada y fuerte en 50% (10/20) de las muestras analizadas del gen FHIT, mientras que el gen MGMT también mostró una expresión moderada y fuerte en el 65% (13/20) de las muestras. En las LEIBG, el 66.7% (14/21) de las muestras mostraron una expresión moderada y fuerte del gen FHIT, mientras que el gen MGMT mostró una expresión moderada y fuerte en el 76.2% (16/21) de las muestras</p>
+                </quote>
+                <quote>
+                    <p>analizadas. En tejido tumoral cervical como era de esperarse tanto FHIT como MGMT mostraron una expresión nula o débil en 84.2% (16/19) y 89.5% (17/19) de las muestras respectivamente (cuadro IV).</p>
+                </quote>
+                <quote>
+                    <p><emph> Cuadro IV </emph> . Expresión de FHIT y MGMT en cáncer cervical, lesiones precancerosas y cérvix normal.</p>
+                </quote>
+                <table xml:id="t4"><tr> <td rowspan="3"> </td> <td colspan="3" style="width:153pt;border:solid #000000 1pt;border-left:none;padding:0cm 0cm 0cm 0cm;height:20.65pt;"> Expresión de FHIT </td> <td colspan="3" style="width:189pt;border-top:solid #000000 1pt;border-left:none;border-bottom:solid #000000 1pt;border-right:none;padding:0cm 0cm 0cm 0cm;height:20.65pt;"> Expresión de MGMT </td> </tr> <tr> <td> Nula o débil </td> <td> Moderada </td> <td> Fuerte </td> <td> Nula o débil </td> <td> Moderada </td> <td> Fuerte </td> </tr> <tr> <td> N (%) </td> <td> N (%) </td> <td> N (%) </td> <td> N (%) </td> <td> N (%) </td> <td> N (%) </td> </tr> <tr> <td> Cáncer cervical </td> <td> 16 (84.2) </td> <td> 3 (15.8) </td> <td> 0 (0) </td> <td> 17 (89.5) </td> <td> 0 (0) </td> <td> 2 (10.5) </td> </tr> <tr> <td> LEIBG </td> <td> 7 (33.3) </td> <td> 9 (42.8) </td> <td> 5 (23.9) </td> <td> 5 (23.8) </td> <td> 7 (33.3) </td> <td> 9 (42.9) </td> </tr> <tr> <td> Citologías normales </td> <td> 10 (50) </td> <td> 8 (40) </td> <td> 2 (10) </td> <td> 7 (35) </td> <td> 11 (55) </td> <td> 2 (10) </td> </tr></table>
+                <quote>
+                    <p>En la figura 3 se muestra la representación grafica de los niveles de expresión de FHIT y MGMT y la comparación de las medianas de expresión entre grupos. Debido a que los valores individuales de expresión de los genes FHIT y MGMT no tienen una distribución normal se usó como valor representativo de expresión a la mediana. El nivel de expresión de MGMT es mas bajo en citología normal (38.4) que en LEIBG (55.7) y esta diferencia es estadísticamente significativa (p = 0.03). Para el mismo gen el nivel de expresión en cáncer cervical (16.7) fue mas bajo que en citología normal (38.4) y la diferencia también es significativa (p = 0.01). El nivel de expresión de FHIT fue mas bajo en cáncer cervical (16) que en LEIBG (58.4) y citología normal (38.2) y ambas diferencias fueron estadísticamente significativas (p = &lt;0.00 y p = 0.009 respectivamente). El nivel de expresión de FHIT es mas bajo en citología normal (38.2) que en LEIBG (58.4) y esta diferencia también fue significativa (p = 0.04).</p>
+                </quote>
+                <p><emph><object xml:id="f3" src="01218987-f3.jpg" /></emph></p>
+                <quote>
+                    <p><emph> Fig. 3. </emph> Los niveles de expresión de MGMT (A), y FHIT (B) en los diferentes grupos, los resultados son presentados en porciento del control positivo de PCR (muestra citológicamente normal positiva para ambos genes) y normalizado con el gen constitutivo de β-actina utilizado como control interno. La línea delgada de cada barra indica el nivel minino y máximo de expresión de todos los valores en esa categoría y la barra sombreada representa el nivel mínimo y máximo del 50% de los valores de esa categoría. M, mediana de cada grupo; CN, tejido normal cervical; LEIBG, lesión escamosa intraepitelial de bajo grado y CC, cáncer cervical.</p>
+                </quote>
+            </section>
+            <section>
+                <h>DISCUSIÓN Y CONCLUSIONES</h>
+                <quote>
+                    <p>El VPH tipo 16 fue el tipo viral más frecuente en las muestras de citología normal y cáncer cervical. En LEIBG el VPH tipo 18 fue el de más alta incidencia. Aunque la infección cervical con el virus del papiloma humano está bien establecida como un evento esencial en el inicio del desarrollo de lesiones precancerosas del cérvix, relativamente pocas infecciones progresan hacia carcinoma cervical invasor.<sup> 19</sup> Por lo tanto, otros eventos genéticos, tales como el silenciamiento de genes supresores de tumor y genes reparadores de DNA, como <html:i>FHIT </html:i>y <html:i>MGMT</html:i>, respectivamente, pudieran contribuir, además de la infección con VPH, en el desarrollo de cáncer cervical. Se han realizado diversas investigaciones para caracterizar las alteraciones genéticas que ocurren en la carcinogénesis cervical, las cuales han revelado varias regiones cromosómicas que tienen alta frecuencia en cuanto a la pérdida alélica.<sup> 19</sup> La región cromosómica 3p14.2 ha sido reportada por numerosos investigadores por ser comúnmente eliminada tanto en lesiones precursoras intraepiteliales como en carcinoma cervical invasivo.<sup> 10</sup> La identificación del gen <html:i>FHIT</html:i>, como un gen supresor de tumor que se traslapa con el sitio frágil FRA3B en el cromosoma 3p14.2, llevó a varios grupos a investigar su papel en la carcinogénesis cervical. El gen <html:i>MGMT </html:i>codifica para una proteína reparadora de DNA, cuya presencia y expresión normal protege a las células contra carcinógenos y contra los efectos citotóxicos de agentes alquilantes. La pérdida o la disminución en la expresión de MGMT es común en distintos tipos de cáncer incluido el cervical además de que tiene un papel significativo en la carcinogénesis.<sup> 10</sup> Se ha reportado que la pérdida de expresión de MGMT no es ocasionada por eliminación, mutación o rearreglos del gen.</p>
+                </quote>
+                <quote>
+                    <p>En este estudio, analizamos la expresión de MGMT y FHIT en 20 muestras de citología normal, 21 lesiones de grado bajo y 19 de cáncer cervical invasor para determinar si hay alteraciones en la expresión de estos genes y si son eventos tempranos o tardíos en la carcinogénesis cervical. Se encontró que en las muestras de citología normal el 50% presentaron una expresión moderada o fuerte del gen FHIT, mientras que Connolly y col <sup> 19</sup> encontraron por inmunohístoquimica, que todas las citologías normales presentaron una expresión moderada o fuerte de FHIT. En este estudio el 66.7% de las muestras de LEIBG presentaron una expresión moderada o fuerte del gen FHIT, por su parte Butler.<sup> 20</sup> encontró por inmunohístoquimica que el 100% de las muestras de NIC I presentaron expresión moderada o</p>
+                </quote>
+                <quote>
+                    <p>fuerte de este mismo gen. El 84.2% de los casos de cáncer cervical presentaron una expresión nula o débil de FHIT mientras que Connolly<sup> 19</sup> reporta para cáncer cervical invasor el 71% de las muestras con expresión reducida o ausente. Al respecto de las diferencias entre nuestros resultados y los previamente reportados, nosotros detectamos en todos los estratos una expresión más baja del gen FHIT. Hasta donde nosotros hemos encontrado, no existen reportes donde analicen la expresión de ambos genes a nivel de RNAm por RT-PCR semicuantitativa, por lo que analizamos resultados de otros estudios, donde si bien analizan la expresión de FHIT y MGMT en tejido con CaCU lo realizan a nivel de proteínas. Por lo que las diferencias pudieran explicarse debido a las técnicas empleadas, sin embargo otros fenómenos que pudieran explicar estas diferencias pueden ser la hipermetilación del promotor del gen que se ha descrito como un mecanismo molecular alternativo en el silenciamiento genetico, estudios recientes<sup> 8</sup> revelan altos niveles de hipermetilación del promotor FHIT en varios canceres humanos incluyendo el cáncer cervical, que pudieran en parte explicar la disminución en la expresión como se reporta en este estudio, o bien la expresión de transcritos aberrantes de FHIT que se han encontrado en varios carcinomas incluido el cervical y en sus lesiones precursoras, por otro lado se ha reportado que existen fuertes asociaciones entre la perdida de expresión de FHIT y el extenso consumo de cigarrillo.<sup> 8,19,</sup> <sup> 20,</sup> <sup> 21</sup> Es importante mencionar la presencia dentro del gen FHIT el sitio frágil FRA3B (localizado en el cromosoma 3p14.2), estudios <html:i>in vivo </html:i>se descubrió que el VPH puede integrarse al genoma a través del sitio frágil FRA3B suprimiendo una pieza de DNA, incluyendo el gen FHIT. Butler mostró que existe una fuerte asociación entre LOH del gen FHIT y la infección con VPH de alto riesgo. En nuestro estudio no encontramos asociación entre la infección de VPH y el nivel de expresión de FHIT. El nivel de expresión de MGMT reportado por inmunohistoquimica, varía ampliamente de acuerdo al tipo de tumor y varia aún entre tumores del mismo tipo.<sup> 22</sup> En nuestro estudio las muestras de cáncer cervical encontramos que el 89.5% de estas presentaron una expresión nula o débil de MGMT. Esteller y colaboradores<sup> 11</sup> analizaron 8 tumores de cerebro, 9 de cáncer de colón y 14 linfomas que sumaron 31 tumores primarios humanos, de los cuales el 41.9% no expresaron MGMT. En el presente estudio, el 35% de las muestras de citología normal cervical presentaron una expresión nula o débil de MGMT. Wolf y col<sup> 23</sup> reportaron ausencia de expresión de MGMT tanto en tejido pulmonar normal como en tejido neoplásico. Debido a que existe diferencia estadísticamente significativa en la frecuencia de</p>
+                </quote>
+                <quote>
+                    <p>los casos que presentaron expresión nula o débil al comparar citologías normales y CaCU (<html:i>P = 0.011</html:i>), podría decir que quizá la expresión de MGMT pudiera ser un evento temprano de la carcinogénesis cervical. De forma similar, aunque en tejido pulmonar, Wolf <sup> 23</sup> también sugiere que la pérdida de la expresión de MGMT puede ser un evento temprano en la carcinogénesis pulmonar. Como se describe arriba la pérdida de expresión de MGMT no es comúnmente ocasionada por eliminación, mutación o rearreglos del gen, al igual que el gen FHIT la hipermetilación pudieran en parte explicar la disminución en la expresión de este gen.</p>
+                </quote>
+                <quote>
+                    <p>Al mismo tiempo Hernández Sotelo y colaboradores<sup> 24</sup> analizaron el estado de metilación de los promotores de los genes MGMT y FHIT, en la misma población que la utilizada en este estudio teniendo como resultado que el 100% de las muestras de cáncer cervical invasor con metilación en el promotor del gen MGMT mostraron una disminución o ausencia en la expresión y el 93% de las muestras de cáncer cervical invasor con metilación en el promotor del gen FHIT también mostraron una disminución o ausencia en la expresión. Estos resultados sugieren que existe una correlación entre el estado de metilación y el nivel de expresión de ambos genes. En conclusión, la pérdida de expresión de los genes FHIT y MGMT fue un evento significativamente más frecuente en cáncer cervical, siendo más frecuente la pérdida de expresión de MGMT. Estos resultados son congruentes con los reportados en la literatura, pues en la mayoría de tumores humanos, incluido el cervical, donde han estudiado su expresión por inmunohistoquimica, ambos proteínas están ausentes. Ya que observamos la pérdida de expresión de FHIT y MGMT desde la citología normal hasta el cáncer cervical, quizá podemos sugerir que la pérdida de expresión de estos dos genes podría ser un evento temprano en el desarrollo de cáncer cervical y entonces proponer en estudios subsecuentes como una hipótesis futura al analizar la expresión de estos dos genes en mujeres con citologías normales, que quizá la perdida de expresión de estos genes sea un marcador útil en una predicción temprana, ya que las mujeres que tengan pérdida de la expresión de uno o ambos genes tendrán más riesgo de desarrollar LEIBG y cáncer cervical que las que presentan expresión de ambos genes.</p>
+                </quote>
+            </section>
+        </section>
+        <section role="backmatter">
+            <bibliography>
+                <h>REFERENCIAS</h>
+                <entry xml:id="1"><emph>Muñoz N, Bosch FX, Sanjosé D, Herrero R, Castellsague X, Shah VK et al. </emph>Epidemiologic classification of human papillomavirus types associated with cervical cáncer. The New England Journal Medicine. 2003;34(6):518-527.}</entry>
+                <entry xml:id="2"><emph>Fernandez Brenna SM, Juhani Syrjänen K. </emph>Regulation of cell cycles is of key importante in human papillomavirus (HPV)- associated cervical carcinogénesis. Sao Paulo Medical Journal. 2003; 121(3): 128-132.</entry>
+                <entry xml:id="3"><emph>3 Gopeshwar N, Arias-Pulido H, Koul S, Vargas H, Zhang FF, Villella J, Schneider TA, Mansukhani MB, Murty VV </emph>. Frequent promoter methylation of CDH1, DAPK, RARB, and HIC1 genes in carcinoma of cervix uteri: its relationship to clinical outcome. Molecular Cancer 2003.2(24):1-12.</entry>
+                <entry xml:id="4"><emph>Pylkkänen L. </emph><html:i>Tesis: </html:i>Loss of heterozygosity and tumour Suppressor gene alterations in human cancer:studies on <html:i>FHIT </html:i>and <html:i>NF2 </html:i>genes in lung cancer, malignant mesothelioma and gastrointestinal stromal tumours. University of Joensuu, PhD Dissertations in Biology. 2002</entry>
+                <entry xml:id="5"><emph>Whang JD, Lee JH. </emph>Molecular genetics of gynecologic cancer. JKMS 1997.12:383-389.</entry>
+                <entry xml:id="6"><emph>Dong SM, Hy-Sook K, Seo-Hee R, Sidransky D. </emph>Promoter hypermethylation of multiple genes in carcinoma of the uterine cervix. Clinical Cancer Research 2001. 7:1982-1986.</entry>
+                <entry xml:id="7"><emph>Prokhortchouk E, Hendrich B. </emph>Methyl-CpG binding proteins and cancer:are MeCpG more important than MBDs?. Oncogene. 2002. 21: 5394-5399.</entry>
+                <entry xml:id="8"><emph>Pylkkänen L, Wolff H, Stjernvall T, Tuominen P, Sioris T, Karjalainen A et al. </emph>Reduced FHIT protein expression and loss of heterozygosity at FHIT gene in tumours from smoking and asbestos-exposed lung cancer patients. International Journal Oncology 2001;20:285-290.</entry>
+                <entry xml:id="9"><emph>Butler D, Collins C, MabruK M, Walsh CB, Leader MB, Kay EW </emph>. Deletion of the FHIT gene in neoplastic and invasive cervical lesions is related to high-risk HVP infection but is independent of histopathological features. Journal of Pathology. 2000. 192: 502-510.</entry>
+                <entry xml:id="10"><emph>Hayashi H, Takuya Y, Koji O, Jun-ichi N, Takaaki I, Masayoshi K, Htoshi K. </emph>Inactivation of O<sup> 6</sup> -Methylguanine-DNA methyltranferase in human lung adenocarcinoma relates to high-grade histology and worse prognosis among smokers. Journal. Cancer Research. 2002. 93.184-189.</entry>
+                <entry xml:id="11"><emph>Esteller M, Hamilton S, Burger P, Baylin S, Herman J. </emph>Inactivation of the DNA Repair Gene <html:i>O</html:i><sup> 6</sup> – <html:i>Methylguanine</html:i>-DNA <html:i>Methyltransferase </html:i>by Promoter Hypermethylation is a Common Event in Primery Human Neoplasia. Cancer Research. 1999. 59: 793-797.</entry>
+                <entry xml:id="12"><emph>Kohno T </emph>, <emph>Yokota J. </emph>How many tumors supresor genes are invloved in human luna carcinogenesis. Carcinogenesis 1999. 20(8): 1403-1410.</entry>
+                <entry xml:id="13"><emph>Tanaka H, Shimada Y, Harada H, Shinoda M, Hatooka S, Imamura M, Ishizaki K. </emph>Methylation of the 5’CpG island of the FHIT gene is closely associated with transcriptional inactivation in esophageal squamous cell carcinomas. Cancer Research. 1998.58(15): 3429- 3434.</entry>
+                <entry xml:id="14"><emph>Sato M, Horio Y, Sekido Y, Minna J-D, Shimokata K, Hasegawa Y. </emph>The expression of DNA methyltransferases and methyl-CpG-biding proteins is not associated with the methylation status of p14<sup> arf</sup> , p16<sup> INK4</sup> <sup> α </sup> and RASSFI4 in human lung cancer cell lines. Oncogene 2002; 21:4822-4829.</entry>
+                <entry xml:id="15"><emph>Bauer HM, Greer EC, Manos MM. </emph>Determination of genital human papillomavirus infection by consensua PCR amplification<emph>. </emph>En: Herrintong SC, McGee OJ, ed. Diagnostic molecular pathology: a practical approach. Oxford: Oxford University Press 1992.131-152.</entry>
+                <entry xml:id="16"><emph>Bauer HM, Manos MM. </emph>PCR detecction of genital human papillomavirus<emph>. </emph>En: Persing HD, Emith FT, Tenover CF, White JT, ed. Diagnotic molecular microbiology. Washington, DC: American Society for Microbiology 1993. 407-413.</entry>
+                <entry xml:id="17"><emph>Bernard HU, Chan YS, Manos MM, Ong KC, Villa LL, Delius H. </emph>Identification and assessment of known and novel human papilomavirus by polymerase chain reaction amplification, restriction fragment length polymorphisms, nucleotide sequence and phylogenetic algorithms. Journal of Infectious Diseases. 1994. 170:1077-1085.</entry>
+                <entry xml:id="18"><emph>Koul S, Houldsworth J, Mansukhani MM, Donadio A, Mckiernan JM, Reuter VE, Bosl GJ, Chaganti RS, Murty VV. </emph>Characteristic promoter hypermethylation signatures in male germ cell tumors. Molecular Cancer 2002.1:8.</entry>
+                <entry xml:id="19"><emph>Connolly DC, Greenpan DL, Wu R, Ren X, Dunn RL, Shan KV, Jones RW, Bosch FX, Muñoz N, Cho KR. </emph>Loss of Fhit expression in invasive cervical carcinomas and intraepithelial lesions associated with invasive disease. Clinical Cancer Research. 2000.6(9):3505-10.</entry>
+                <entry xml:id="20"><emph>Butler D, Collins C, Mabruk M, Leader MB, Kay W. </emph>Loss of Fhit Expession as a Potential Marker of Malignant Progression in Preinvasive Squamous Cervical Cancer. Gynecologic Oncology. 2002.86: 144-149.</entry>
+                <entry xml:id="21"><emph>Caselli M, Marchisio M, Gaudio M, Saragoni L, Lanza G, Alvisi V, Bertagnolo V, Concu M, Capitán S, Caramelli E. </emph>Fhit protein expresión in human gastric cancer and related precancerous lesions. Oncology Reports 2001. 8: 1233-1237</entry>
+                <entry xml:id="22"><emph>Esteller M, García-Foncillas J, Andion E, Goodman SN, Hidalgo OF, Vanaclocha V, Baylin SB, Herman JG. </emph>Inactivation of the DNA-Repair gene MGMT and the clinical response of gliomas to alkylating agents. The New England Journal of Medicine 2000. 343(19): 1350-1354.</entry>
+                <entry xml:id="23"><emph>Wolf P, Yu YC, Doffek K, Sidransky D, Ahrendt SA </emph>. O<sup> 6</sup> -Methylguanine-DNA methyltransferase promoter hypermethylation shifts the p53 mutational spectrum in non-small cell lung cancer. Cancer Research. 2001. 61: 8113-8117.</entry>
+                <entry xml:id="24"><emph>Hernádez-Sotelo Daniel </emph>. Metilación de los promotores de los genes MGMT y FHIT en cáncer cervical y lesiones precancerosas. Tesis. Chilpancingo, Gro: Universidad Autónoma de Guerrero, 2004.</entry>
+            </bibliography>
+        </section>
+    </body>
+</document>
