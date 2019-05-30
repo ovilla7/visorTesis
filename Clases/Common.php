@@ -94,7 +94,9 @@ function CreateIndex(){
   foreach ($indices as $clave => $valor) {
     //echo "{$clave} => {$valor} ";
     //echo "<li><a href=#{$valor}>$clave</a></li>";
-    $indice .= "<li><a href=#{$valor}>$clave</a></li>";
+    $clave = preg_replace('/\s+/', ' ', $clave);
+    $valor = preg_replace('/\s+/', ' ', $valor);
+    $indice .= "<li><a href='#{$valor}'>$clave</a></li>";
   }
 }
 
